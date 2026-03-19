@@ -8,7 +8,7 @@
     "state_code": "AZ",
     "phone": "520-278-7047",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 40,
     "recommended": true
   },
@@ -34,7 +34,7 @@
     "state_code": "AZ",
     "phone": "480-264-8879",
     "website": "https://www.totalautomotiveaz.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 247,
     "recommended": true
   },
@@ -47,7 +47,7 @@
     "state_code": "AZ",
     "phone": "480-395-8163",
     "website": "https://www.cheosautoservice.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 154,
     "recommended": true
   },
@@ -60,7 +60,7 @@
     "state_code": "AZ",
     "phone": "602-710-5284",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 32,
     "recommended": true
   },
@@ -73,7 +73,7 @@
     "state_code": "AZ",
     "phone": "480-720-3207",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 48,
     "recommended": true
   },
@@ -86,7 +86,7 @@
     "state_code": "AZ",
     "phone": "480-720-2770",
     "website": "https://copperautorepair.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 11,
     "recommended": true
   },
@@ -99,7 +99,7 @@
     "state_code": "AZ",
     "phone": "602-328-6156",
     "website": "https://www.autoservicediazllc.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 8,
     "recommended": true
   },
@@ -112,7 +112,7 @@
     "state_code": "AZ",
     "phone": "602-803-5778",
     "website": "https://canyoncarclinic.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 18,
     "recommended": true
   },
@@ -125,7 +125,7 @@
     "state_code": "AZ",
     "phone": "nan",
     "website": "https://kvtrucksandauto.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 13,
     "recommended": true
   },
@@ -138,7 +138,7 @@
     "state_code": "AZ",
     "phone": "480-772-3295",
     "website": "http://mufflerandcareautomotive.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
@@ -151,7 +151,7 @@
     "state_code": "AZ",
     "phone": "480-625-7655",
     "website": "https://imexhaustedmufflers.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 14,
     "recommended": true
   },
@@ -164,7 +164,7 @@
     "state_code": "AZ",
     "phone": "480-980-2419",
     "website": "https://rncfleertservice.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 38,
     "recommended": true
   },
@@ -177,7 +177,7 @@
     "state_code": "AZ",
     "phone": "480-720-3391",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -190,7 +190,7 @@
     "state_code": "AZ",
     "phone": "602-670-4314",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -203,7 +203,7 @@
     "state_code": "AZ",
     "phone": "nan",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 4,
     "recommended": true
   },
@@ -840,7 +840,7 @@
     "state_code": "AZ",
     "phone": "480-213-5690",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 10,
     "recommended": true
   },
@@ -853,7 +853,7 @@
     "state_code": "AZ",
     "phone": "623-932-2450",
     "website": "https://cieneuropean.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 6,
     "recommended": true
   },
@@ -898,7 +898,7 @@
   },
   {
     "name": "CIEN'S GARAGE - AUDIO - LIFT KITS - TIRES",
-    "care_type": "Car stereo store",
+    "care_type": "Auto repair shop",
     "address": "722 E Main St, Avondale, AZ 85323",
     "city": "Avondale",
     "state": "Arizona",
@@ -1113,7 +1113,7 @@
     "state_code": "AZ",
     "phone": "623-252-4258",
     "website": "https://www.sdecarrepair.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 21,
     "recommended": true
   },
@@ -1126,7 +1126,7 @@
     "state_code": "AZ",
     "phone": "915-330-5323",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
@@ -1139,7 +1139,7 @@
     "state_code": "AZ",
     "phone": "323-682-1845",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 3,
     "recommended": true
   },
@@ -1152,7 +1152,7 @@
     "state_code": "AZ",
     "phone": "623-910-2168",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 9,
     "recommended": true
   },
@@ -1165,7 +1165,7 @@
     "state_code": "AZ",
     "phone": "909-543-9092",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 3,
     "recommended": true
   },
@@ -1178,7 +1178,7 @@
     "state_code": "AZ",
     "phone": "nan",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -1191,7 +1191,7 @@
     "state_code": "AZ",
     "phone": "623-386-6974",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -1204,7 +1204,7 @@
     "state_code": "AZ",
     "phone": "480-332-1044",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
@@ -1217,7 +1217,7 @@
     "state_code": "AZ",
     "phone": "602-568-3923",
     "website": "http://mastermobilealignment.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 8,
     "recommended": true
   },
@@ -1568,7 +1568,7 @@
     "state_code": "AZ",
     "phone": "623-738-2671",
     "website": "https://www.firestonecompleteautocare.com/arizona/buckeye/1520-s-watson-rd/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dlocalmaps%26cmp%3Doloc_google_localmaps_maps",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 745,
     "recommended": true
   },
@@ -1620,7 +1620,7 @@
     "state_code": "AZ",
     "phone": "623-241-0112",
     "website": null,
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 8,
     "recommended": true
   },
@@ -1698,7 +1698,7 @@
     "state_code": "AZ",
     "phone": "928-514-0508",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 6,
     "recommended": true
   },
@@ -1711,7 +1711,7 @@
     "state_code": "AZ",
     "phone": "702-883-7944",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 27,
     "recommended": true
   },
@@ -1724,7 +1724,7 @@
     "state_code": "AZ",
     "phone": "928-234-4354",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
@@ -1737,7 +1737,7 @@
     "state_code": "AZ",
     "phone": "928-487-4000",
     "website": "http://www.tufftirellc.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 11,
     "recommended": true
   },
@@ -1750,7 +1750,7 @@
     "state_code": "AZ",
     "phone": "928-404-3555",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 5,
     "recommended": true
   },
@@ -2153,7 +2153,7 @@
     "state_code": "AZ",
     "phone": "nan",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 4,
     "recommended": true
   },
@@ -2166,7 +2166,7 @@
     "state_code": "AZ",
     "phone": "928-763-3368",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 36,
     "recommended": true
   },
@@ -2218,7 +2218,7 @@
     "state_code": "AZ",
     "phone": "928-605-5635",
     "website": "https://jessie-s-mobile-mechanic.ueniweb.com/",
-    "rating": 1.0,
+    "rating": 1,
     "reviews": 1,
     "recommended": false
   },
@@ -2231,7 +2231,7 @@
     "state_code": "AZ",
     "phone": "928-274-6188",
     "website": "http://carrollshotrodmechanics.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 3,
     "recommended": true
   },
@@ -2270,7 +2270,7 @@
     "state_code": "AZ",
     "phone": "520-858-1551",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 22,
     "recommended": true
   },
@@ -2283,7 +2283,7 @@
     "state_code": "AZ",
     "phone": "520-709-0759",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
@@ -2296,7 +2296,7 @@
     "state_code": "AZ",
     "phone": "520-610-4768",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
@@ -2309,7 +2309,7 @@
     "state_code": "AZ",
     "phone": "520-705-2815",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -2322,7 +2322,7 @@
     "state_code": "AZ",
     "phone": "520-858-1833",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
@@ -2335,7 +2335,7 @@
     "state_code": "AZ",
     "phone": "520-371-2846",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 37,
     "recommended": true
   },
@@ -2348,7 +2348,7 @@
     "state_code": "AZ",
     "phone": "520-836-0583",
     "website": "https://www.adrenalinmotorsportsaz.com/service-repair-atvs-utvs-motorcycles-dealership--service%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3DGMB-service",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 5,
     "recommended": true
   },
@@ -2361,7 +2361,7 @@
     "state_code": "AZ",
     "phone": "520-426-3944",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 7,
     "recommended": true
   },
@@ -2497,7 +2497,7 @@
   },
   {
     "name": "520 Car Audio",
-    "care_type": "Car stereo store",
+    "care_type": "Auto repair shop",
     "address": "816 W Gila Bend Hwy C1, Casa Grande, AZ 85122",
     "city": "Casa Grande",
     "state": "Arizona",
@@ -2946,7 +2946,7 @@
     "state_code": "AZ",
     "phone": "520-314-8698",
     "website": "https://www.firestonecompleteautocare.com/arizona/casa-grande/1425-e-florence-blvd/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dlocalmaps%26cmp%3Doloc_google_localmaps_maps",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 479,
     "recommended": true
   },
@@ -2959,7 +2959,7 @@
     "state_code": "AZ",
     "phone": "520-836-2500",
     "website": "https://startowingaz.com/",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 158,
     "recommended": true
   },
@@ -3050,7 +3050,7 @@
     "state_code": "AZ",
     "phone": "520-836-0553",
     "website": null,
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 2,
     "recommended": true
   },
@@ -3115,7 +3115,7 @@
     "state_code": "AZ",
     "phone": "480-963-1339",
     "website": "http://www.chandlerautoandtire.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 18,
     "recommended": true
   },
@@ -3128,7 +3128,7 @@
     "state_code": "AZ",
     "phone": "480-709-6259",
     "website": "https://macsautorepairs.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 409,
     "recommended": true
   },
@@ -3141,7 +3141,7 @@
     "state_code": "AZ",
     "phone": "480-992-7200",
     "website": "http://sscautorepair.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 86,
     "recommended": true
   },
@@ -3154,7 +3154,7 @@
     "state_code": "AZ",
     "phone": "602-427-5676",
     "website": "https://www.gembaautomotive.com/chandler-location",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 27,
     "recommended": true
   },
@@ -3596,7 +3596,7 @@
     "state_code": "AZ",
     "phone": "602-230-3600",
     "website": "https://mwg.aaa.com/agent-office-locations/az/chandler/aaa-chandler-west-auto-repair-center",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 222,
     "recommended": true
   },
@@ -3609,7 +3609,7 @@
     "state_code": "AZ",
     "phone": "480-553-0413",
     "website": "https://fitoriosautorepair.com/",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 24,
     "recommended": true
   },
@@ -3648,7 +3648,7 @@
     "state_code": "AZ",
     "phone": "480-817-7705",
     "website": "https://hansen-auto.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 135,
     "recommended": true
   },
@@ -3661,7 +3661,7 @@
     "state_code": "AZ",
     "phone": "520-329-1913",
     "website": "https://locksmithcoolidgeaz.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -3739,7 +3739,7 @@
     "state_code": "AZ",
     "phone": "928-649-9880",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 35,
     "recommended": true
   },
@@ -3752,7 +3752,7 @@
     "state_code": "AZ",
     "phone": "928-821-6387",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 3,
     "recommended": true
   },
@@ -3765,7 +3765,7 @@
     "state_code": "AZ",
     "phone": "928-821-3648",
     "website": "https://perfect-reflection.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 58,
     "recommended": true
   },
@@ -3778,7 +3778,7 @@
     "state_code": "AZ",
     "phone": "928-282-0101",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -3791,7 +3791,7 @@
     "state_code": "AZ",
     "phone": "nan",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 4,
     "recommended": true
   },
@@ -3804,7 +3804,7 @@
     "state_code": "AZ",
     "phone": "928-963-2566",
     "website": "https://instagram.com/clouston_cycleworks/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 5,
     "recommended": true
   },
@@ -3901,7 +3901,7 @@
   },
   {
     "name": "Cottonwood Window Tinting",
-    "care_type": "Window tinting service",
+    "care_type": "Auto repair shop",
     "address": "300 S 6th St Suite 3, Cottonwood, AZ 86326",
     "city": "Cottonwood",
     "state": "Arizona",
@@ -4148,7 +4148,7 @@
   },
   {
     "name": "All Metals recycle",
-    "care_type": "Recycling center",
+    "care_type": "Auto repair shop",
     "address": "409 S 6th St, Cottonwood, AZ 86326",
     "city": "Cottonwood",
     "state": "Arizona",
@@ -4181,7 +4181,7 @@
     "state_code": "AZ",
     "phone": "928-649-3306",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 7,
     "recommended": true
   },
@@ -4220,7 +4220,7 @@
     "state_code": "AZ",
     "phone": "928-634-9550",
     "website": null,
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 2,
     "recommended": true
   },
@@ -4233,7 +4233,7 @@
     "state_code": "AZ",
     "phone": "928-639-3477",
     "website": null,
-    "rating": 1.0,
+    "rating": 1,
     "reviews": 1,
     "recommended": false
   },
@@ -4324,7 +4324,7 @@
     "state_code": "AZ",
     "phone": "520-364-1216",
     "website": "https://iisa85607.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -4402,7 +4402,7 @@
     "state_code": "AZ",
     "phone": "520-364-6616",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 13,
     "recommended": true
   },
@@ -4454,7 +4454,7 @@
     "state_code": "AZ",
     "phone": "520-234-5401",
     "website": "https://monrealtireshop.com/",
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 6,
     "recommended": true
   },
@@ -4532,7 +4532,7 @@
     "state_code": "AZ",
     "phone": "nan",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 5,
     "recommended": true
   },
@@ -4545,7 +4545,7 @@
     "state_code": "AZ",
     "phone": "623-986-2418",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 4,
     "recommended": true
   },
@@ -4688,7 +4688,7 @@
     "state_code": "AZ",
     "phone": "623-972-5823",
     "website": "http://www.trueblueautomotive.com/",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 219,
     "recommended": true
   },
@@ -4714,7 +4714,7 @@
     "state_code": "AZ",
     "phone": "602-592-7114",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 94,
     "recommended": true
   },
@@ -4727,7 +4727,7 @@
     "state_code": "AZ",
     "phone": "nan",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -4896,7 +4896,7 @@
     "state_code": "AZ",
     "phone": "928-216-4107",
     "website": "https://www.milestoneflagstaff.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 163,
     "recommended": true
   },
@@ -4909,7 +4909,7 @@
     "state_code": "AZ",
     "phone": "928-440-4225",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 22,
     "recommended": true
   },
@@ -4922,7 +4922,7 @@
     "state_code": "AZ",
     "phone": "928-266-2245",
     "website": "https://www.facebook.com/share/1Gpn6MKbSS/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 11,
     "recommended": true
   },
@@ -5546,7 +5546,7 @@
     "state_code": "AZ",
     "phone": "800-462-2626",
     "website": "http://www.aamco.com/%3Futm_source%3DG%26utm_medium%3Dlocal%26utm_campaign%3Dgoogle-local",
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 107,
     "recommended": true
   },
@@ -5559,7 +5559,7 @@
     "state_code": "AZ",
     "phone": "nan",
     "website": "https://specialtyautorepairflagstaff.com/",
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 2,
     "recommended": true
   },
@@ -5585,7 +5585,7 @@
     "state_code": "AZ",
     "phone": "520-788-1375",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 102,
     "recommended": true
   },
@@ -5598,7 +5598,7 @@
     "state_code": "AZ",
     "phone": "520-280-3476",
     "website": "https://www.antoniosautoncomputerrepair.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 30,
     "recommended": true
   },
@@ -5611,7 +5611,7 @@
     "state_code": "AZ",
     "phone": "520-868-4444",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 4,
     "recommended": true
   },
@@ -5624,7 +5624,7 @@
     "state_code": "AZ",
     "phone": "480-272-0649",
     "website": "https://www.everydaycarsllc.com/service-department",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 16,
     "recommended": true
   },
@@ -5637,7 +5637,7 @@
     "state_code": "AZ",
     "phone": "602-751-6511",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 8,
     "recommended": true
   },
@@ -5650,7 +5650,7 @@
     "state_code": "AZ",
     "phone": "508-468-6941",
     "website": "https://www.facebook.com/MOCMOBILEOILCHANGE",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 37,
     "recommended": true
   },
@@ -5741,7 +5741,7 @@
     "state_code": "AZ",
     "phone": "520-868-0005",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 85,
     "recommended": true
   },
@@ -5832,7 +5832,7 @@
     "state_code": "AZ",
     "phone": "480-837-1620",
     "website": "https://libertyauto.center/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 273,
     "recommended": true
   },
@@ -5845,7 +5845,7 @@
     "state_code": "AZ",
     "phone": "480-640-8116",
     "website": "https://www.crossroadautoworks.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 173,
     "recommended": true
   },
@@ -5858,7 +5858,7 @@
     "state_code": "AZ",
     "phone": "480-837-2002",
     "website": "http://automotiveresearchllc.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 66,
     "recommended": true
   },
@@ -5871,7 +5871,7 @@
     "state_code": "AZ",
     "phone": "480-329-5906",
     "website": "https://fountainhillsautobody.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 51,
     "recommended": true
   },
@@ -6079,7 +6079,7 @@
     "state_code": "AZ",
     "phone": "480-340-7353",
     "website": "https://paautorepair.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 190,
     "recommended": true
   },
@@ -6092,7 +6092,7 @@
     "state_code": "AZ",
     "phone": "480-839-1644",
     "website": "https://www.3dautoaz.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 114,
     "recommended": true
   },
@@ -6105,7 +6105,7 @@
     "state_code": "AZ",
     "phone": "602-989-3072",
     "website": "https://competitiveautorepair.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 44,
     "recommended": true
   },
@@ -6118,7 +6118,7 @@
     "state_code": "AZ",
     "phone": "480-912-1705",
     "website": "http://alltechautoaz.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 45,
     "recommended": true
   },
@@ -6131,7 +6131,7 @@
     "state_code": "AZ",
     "phone": "480-892-8586",
     "website": "https://protechrepair.net/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 18,
     "recommended": true
   },
@@ -6144,7 +6144,7 @@
     "state_code": "AZ",
     "phone": "602-435-1344",
     "website": "https://natesbrakes.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 60,
     "recommended": true
   },
@@ -6157,7 +6157,7 @@
     "state_code": "AZ",
     "phone": "480-776-4785",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 21,
     "recommended": true
   },
@@ -6170,7 +6170,7 @@
     "state_code": "AZ",
     "phone": "480-848-3655",
     "website": "http://www.flemingsautoanddiesel.com/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb-website",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 118,
     "recommended": true
   },
@@ -6183,7 +6183,7 @@
     "state_code": "AZ",
     "phone": "602-854-8209",
     "website": "https://rpmmobilemechanic.com/gilbert-mobile-mechanic-company/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
@@ -6196,7 +6196,7 @@
     "state_code": "AZ",
     "phone": "nan",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 3,
     "recommended": true
   },
@@ -6209,7 +6209,7 @@
     "state_code": "AZ",
     "phone": "602-683-1665",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -6846,7 +6846,7 @@
     "state_code": "AZ",
     "phone": "602-671-9294",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 14,
     "recommended": true
   },
@@ -6859,7 +6859,7 @@
     "state_code": "AZ",
     "phone": "602-633-5569",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 105,
     "recommended": true
   },
@@ -6872,7 +6872,7 @@
     "state_code": "AZ",
     "phone": "623-806-6711",
     "website": "https://www.facebook.com/nandoandsons/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 41,
     "recommended": true
   },
@@ -6885,7 +6885,7 @@
     "state_code": "AZ",
     "phone": "623-842-0168",
     "website": "http://www.frierauto.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 47,
     "recommended": true
   },
@@ -6898,7 +6898,7 @@
     "state_code": "AZ",
     "phone": "520-346-8484",
     "website": "https://mobilemechanicglendale.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
@@ -6911,7 +6911,7 @@
     "state_code": "AZ",
     "phone": "623-853-7155",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 4,
     "recommended": true
   },
@@ -6924,7 +6924,7 @@
     "state_code": "AZ",
     "phone": "623-275-6331",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 22,
     "recommended": true
   },
@@ -6937,7 +6937,7 @@
     "state_code": "AZ",
     "phone": "623-937-0888",
     "website": "https://www.instagram.com/accelerated_auto/%3Fhl%3Den",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 47,
     "recommended": true
   },
@@ -6950,7 +6950,7 @@
     "state_code": "AZ",
     "phone": "480-369-3767",
     "website": "http://www.houzauto.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 57,
     "recommended": true
   },
@@ -6963,7 +6963,7 @@
     "state_code": "AZ",
     "phone": "623-695-9329",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 5,
     "recommended": true
   },
@@ -6976,7 +6976,7 @@
     "state_code": "AZ",
     "phone": "480-338-2367",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 12,
     "recommended": true
   },
@@ -6989,7 +6989,7 @@
     "state_code": "AZ",
     "phone": "602-664-0046",
     "website": "https://linktr.ee/AZCollisionCustoms%3Futm_source%3Dlinktree_profile_share%26ltsid%3D88ae76d0-9fed-4eb7-9901-067e8568fc44",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 3,
     "recommended": true
   },
@@ -7743,7 +7743,7 @@
     "state_code": "AZ",
     "phone": "623-582-8473",
     "website": "https://www.joesautoaz.com/auto-repair/glendale-az",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 230,
     "recommended": true
   },
@@ -7756,7 +7756,7 @@
     "state_code": "AZ",
     "phone": "623-939-0345",
     "website": "http://www.fivestarengines.com/",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 110,
     "recommended": true
   },
@@ -7808,7 +7808,7 @@
     "state_code": "AZ",
     "phone": "nan",
     "website": null,
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 3,
     "recommended": true
   },
@@ -7821,7 +7821,7 @@
     "state_code": "AZ",
     "phone": "602-997-6792",
     "website": null,
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 6,
     "recommended": true
   },
@@ -7847,7 +7847,7 @@
     "state_code": "AZ",
     "phone": "623-887-2041",
     "website": "https://goodyearmobilemechanic.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 3,
     "recommended": true
   },
@@ -8133,7 +8133,7 @@
     "state_code": "AZ",
     "phone": "623-455-6941",
     "website": "https://www.firestonecompleteautocare.com/arizona/goodyear/1820-n-pebble-creek-pkwy/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dlocalmaps%26cmp%3Doloc_google_localmaps_maps",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 776,
     "recommended": true
   },
@@ -8432,7 +8432,7 @@
     "state_code": "AZ",
     "phone": "520-815-0139",
     "website": "https://www.firestonecompleteautocare.com/arizona/green-valley/710-w-calle-arroyo-sur/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dlocalmaps%26cmp%3Doloc_google_localmaps_maps",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 430,
     "recommended": true
   },
@@ -8471,7 +8471,7 @@
     "state_code": "AZ",
     "phone": "928-628-9466",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 69,
     "recommended": true
   },
@@ -8763,7 +8763,7 @@
   },
   {
     "name": "AZ Drivelines and Machine",
-    "care_type": "Driveshaft shop",
+    "care_type": "Auto repair shop",
     "address": "2450 E Butler Ave, Kingman, AZ 86409",
     "city": "Kingman",
     "state": "Arizona",
@@ -8965,7 +8965,7 @@
     "state_code": "AZ",
     "phone": "928-279-5846",
     "website": "http://adanrepair.com/",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 162,
     "recommended": true
   },
@@ -9017,7 +9017,7 @@
     "state_code": "AZ",
     "phone": "nan",
     "website": null,
-    "rating": 1.0,
+    "rating": 1,
     "reviews": 1,
     "recommended": false
   },
@@ -9030,7 +9030,7 @@
     "state_code": "AZ",
     "phone": "928-505-3535",
     "website": "https://brittonsautotruckrvcenter.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 97,
     "recommended": true
   },
@@ -9043,7 +9043,7 @@
     "state_code": "AZ",
     "phone": "928-854-7653",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 34,
     "recommended": true
   },
@@ -9056,7 +9056,7 @@
     "state_code": "AZ",
     "phone": "928-505-2886",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 20,
     "recommended": true
   },
@@ -9069,7 +9069,7 @@
     "state_code": "AZ",
     "phone": "928-855-5755",
     "website": "http://californiamotorsports.net/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 10,
     "recommended": true
   },
@@ -9082,7 +9082,7 @@
     "state_code": "AZ",
     "phone": "928-855-7585",
     "website": "http://havasuautobody.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 7,
     "recommended": true
   },
@@ -9095,7 +9095,7 @@
     "state_code": "AZ",
     "phone": "928-855-9355",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 6,
     "recommended": true
   },
@@ -9706,7 +9706,7 @@
     "state_code": "AZ",
     "phone": "928-358-5334",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 119,
     "recommended": true
   },
@@ -9784,7 +9784,7 @@
     "state_code": "AZ",
     "phone": "623-536-0613",
     "website": "https://www.goodyearautoservice.com/",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 199,
     "recommended": true
   },
@@ -9797,7 +9797,7 @@
     "state_code": "AZ",
     "phone": "520-730-7219",
     "website": "https://ajstireservice.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -9810,7 +9810,7 @@
     "state_code": "AZ",
     "phone": "520-589-0705",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 17,
     "recommended": true
   },
@@ -9966,7 +9966,7 @@
     "state_code": "AZ",
     "phone": "520-548-5633",
     "website": "https://www.facebook.com/MABoffroad",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 4,
     "recommended": true
   },
@@ -9992,7 +9992,7 @@
     "state_code": "AZ",
     "phone": "907-385-9286",
     "website": "http://www.thetimelytoolbox.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 29,
     "recommended": true
   },
@@ -10005,7 +10005,7 @@
     "state_code": "AZ",
     "phone": "520-374-5540",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 23,
     "recommended": true
   },
@@ -10200,7 +10200,7 @@
     "state_code": "AZ",
     "phone": "520-413-4637",
     "website": "https://www.firestonecompleteautocare.com/arizona/maricopa/20926-n-john-wayne-pkwy/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dlocalmaps%26cmp%3Doloc_google_localmaps_maps",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 615,
     "recommended": true
   },
@@ -10239,7 +10239,7 @@
     "state_code": "AZ",
     "phone": "480-969-1954",
     "website": "http://www.mesaautoworks.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 298,
     "recommended": true
   },
@@ -10252,7 +10252,7 @@
     "state_code": "AZ",
     "phone": "480-590-4232",
     "website": "http://azautomechanix.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 85,
     "recommended": true
   },
@@ -10265,7 +10265,7 @@
     "state_code": "AZ",
     "phone": "480-427-9680",
     "website": "http://www.azautobar.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 248,
     "recommended": true
   },
@@ -10278,7 +10278,7 @@
     "state_code": "AZ",
     "phone": "480-734-7916",
     "website": "https://www.freedomautoworks.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 38,
     "recommended": true
   },
@@ -10291,20 +10291,20 @@
     "state_code": "AZ",
     "phone": "480-662-6626",
     "website": "http://a1autoworx.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 57,
     "recommended": true
   },
   {
     "name": "Omega Auto Repair Shop",
-    "care_type": "Delivery service",
+    "care_type": "Auto repair shop",
     "address": "707 S Pomeroy, Mesa, AZ 85210",
     "city": "Mesa",
     "state": "Arizona",
     "state_code": "AZ",
     "phone": "480-630-5212",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -10317,7 +10317,7 @@
     "state_code": "AZ",
     "phone": "480-964-3753",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 46,
     "recommended": true
   },
@@ -10330,7 +10330,7 @@
     "state_code": "AZ",
     "phone": "480-296-5950",
     "website": "http://dadsgarargemesa.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 63,
     "recommended": true
   },
@@ -10343,7 +10343,7 @@
     "state_code": "AZ",
     "phone": "nan",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
@@ -10356,7 +10356,7 @@
     "state_code": "AZ",
     "phone": "602-900-1956",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 6,
     "recommended": true
   },
@@ -10369,7 +10369,7 @@
     "state_code": "AZ",
     "phone": "480-232-8294",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 3,
     "recommended": true
   },
@@ -10382,7 +10382,7 @@
     "state_code": "AZ",
     "phone": "480-228-8126",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 4,
     "recommended": true
   },
@@ -10395,7 +10395,7 @@
     "state_code": "AZ",
     "phone": "480-688-6421",
     "website": "http://b-teccautocare.godaddysites.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 41,
     "recommended": true
   },
@@ -10408,7 +10408,7 @@
     "state_code": "AZ",
     "phone": "480-658-8608",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 3,
     "recommended": true
   },
@@ -10421,7 +10421,7 @@
     "state_code": "AZ",
     "phone": "480-969-7774",
     "website": "http://autorepairsmesa.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 26,
     "recommended": true
   },
@@ -10434,7 +10434,7 @@
     "state_code": "AZ",
     "phone": "480-878-9677",
     "website": "http://www.fetterautomotive.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 112,
     "recommended": true
   },
@@ -11428,7 +11428,7 @@
   },
   {
     "name": "Mesa Precision Motor Services",
-    "care_type": "Electric generator shop",
+    "care_type": "Auto repair shop",
     "address": "31 E Vine Ave, Mesa, AZ 85210",
     "city": "Mesa",
     "state": "Arizona",
@@ -12319,7 +12319,7 @@
     "state_code": "AZ",
     "phone": "480-834-6192",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 10,
     "recommended": true
   },
@@ -12364,7 +12364,7 @@
   },
   {
     "name": "Ledezma's Electronics",
-    "care_type": "Car stereo store",
+    "care_type": "Auto repair shop",
     "address": "624 W Broadway Rd UNIT 211, Mesa, AZ 85210",
     "city": "Mesa",
     "state": "Arizona",
@@ -12423,7 +12423,7 @@
     "state_code": "AZ",
     "phone": "480-246-5007",
     "website": null,
-    "rating": 1.0,
+    "rating": 1,
     "reviews": 1,
     "recommended": false
   },
@@ -12462,7 +12462,7 @@
     "state_code": "AZ",
     "phone": "520-987-5757",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -12475,7 +12475,7 @@
     "state_code": "AZ",
     "phone": "520-313-6310",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
@@ -12488,7 +12488,7 @@
     "state_code": "AZ",
     "phone": "203-505-3435",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -12696,7 +12696,7 @@
     "state_code": "AZ",
     "phone": "520-223-4184",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 2,
     "recommended": true
   },
@@ -12709,7 +12709,7 @@
     "state_code": "AZ",
     "phone": "520-901-0758",
     "website": "https://southwestreeferservice.godaddysites.com/",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 24,
     "recommended": true
   },
@@ -12800,7 +12800,7 @@
     "state_code": "AZ",
     "phone": "520-203-6836",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 3,
     "recommended": true
   },
@@ -12891,7 +12891,7 @@
     "state_code": "AZ",
     "phone": "623-244-6368",
     "website": "https://www.cbac.com/lake-pleasant/%3Futm_source%3DGMB%26utm_medium%3Dorganic%26utm_campaign%3Dlake-pleasant%26utm_content%3Dwebsite-cta",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 190,
     "recommended": true
   },
@@ -12904,7 +12904,7 @@
     "state_code": "AZ",
     "phone": "602-284-5013",
     "website": "http://www.overdriveautoaz.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 26,
     "recommended": true
   },
@@ -12917,7 +12917,7 @@
     "state_code": "AZ",
     "phone": "602-370-6552",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 9,
     "recommended": true
   },
@@ -12930,7 +12930,7 @@
     "state_code": "AZ",
     "phone": "602-790-9669",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 5,
     "recommended": true
   },
@@ -12943,7 +12943,7 @@
     "state_code": "AZ",
     "phone": "623-249-6831",
     "website": "https://www.azautodiesel.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -13567,7 +13567,7 @@
     "state_code": "AZ",
     "phone": "623-939-3323",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 62,
     "recommended": true
   },
@@ -13619,7 +13619,7 @@
     "state_code": "AZ",
     "phone": "480-599-5111",
     "website": "https://jimmygsautomotive.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 545,
     "recommended": true
   },
@@ -13632,7 +13632,7 @@
     "state_code": "AZ",
     "phone": "623-230-3966",
     "website": "http://hpautorepair.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 238,
     "recommended": true
   },
@@ -13645,7 +13645,7 @@
     "state_code": "AZ",
     "phone": "602-465-0290",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 13,
     "recommended": true
   },
@@ -13658,7 +13658,7 @@
     "state_code": "AZ",
     "phone": "602-802-9717",
     "website": "http://www.phxautos.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 103,
     "recommended": true
   },
@@ -13671,7 +13671,7 @@
     "state_code": "AZ",
     "phone": "602-275-2888",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 27,
     "recommended": true
   },
@@ -13684,7 +13684,7 @@
     "state_code": "AZ",
     "phone": "623-780-9443",
     "website": "http://advautoaz.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 114,
     "recommended": true
   },
@@ -13697,7 +13697,7 @@
     "state_code": "AZ",
     "phone": "602-258-4218",
     "website": "http://pinasautorepair.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 20,
     "recommended": true
   },
@@ -13710,7 +13710,7 @@
     "state_code": "AZ",
     "phone": "nan",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 5,
     "recommended": true
   },
@@ -13723,7 +13723,7 @@
     "state_code": "AZ",
     "phone": "623-206-8301",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 3,
     "recommended": true
   },
@@ -15049,7 +15049,7 @@
     "state_code": "AZ",
     "phone": "602-299-5758",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 13,
     "recommended": true
   },
@@ -15062,7 +15062,7 @@
     "state_code": "AZ",
     "phone": "602-831-2081",
     "website": "https://www.pepboys.com/stores/az/phoenix/2502-w-van-buren%3FCid%3Dgbp_appt_AN:PB%257CPB:G%257CTT:GBP%257CCG:CONVERSION%257CCD:SERVICE",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 667,
     "recommended": true
   },
@@ -15114,7 +15114,7 @@
     "state_code": "AZ",
     "phone": "nan",
     "website": null,
-    "rating": 2.0,
+    "rating": 2,
     "reviews": 4,
     "recommended": false
   },
@@ -15166,7 +15166,7 @@
     "state_code": "AZ",
     "phone": "928-778-4341",
     "website": "http://granitealleygarage.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 198,
     "recommended": true
   },
@@ -15179,7 +15179,7 @@
     "state_code": "AZ",
     "phone": "928-356-2583",
     "website": "http://www.restivoswrenches.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 141,
     "recommended": true
   },
@@ -15192,7 +15192,7 @@
     "state_code": "AZ",
     "phone": "928-800-2373",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 45,
     "recommended": true
   },
@@ -15205,7 +15205,7 @@
     "state_code": "AZ",
     "phone": "928-445-4740",
     "website": "http://www.onpointeautomotive.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 13,
     "recommended": true
   },
@@ -15218,7 +15218,7 @@
     "state_code": "AZ",
     "phone": "602-361-2711",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 26,
     "recommended": true
   },
@@ -15231,7 +15231,7 @@
     "state_code": "AZ",
     "phone": "928-224-1049",
     "website": "https://www.midas.com/store/az/prescott/1243-w-iron-springs-rd-86305%3Fshopnum%3D4524",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 35,
     "recommended": true
   },
@@ -15244,7 +15244,7 @@
     "state_code": "AZ",
     "phone": "928-710-1333",
     "website": "https://www.steinerautoanddiesel.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 8,
     "recommended": true
   },
@@ -15257,7 +15257,7 @@
     "state_code": "AZ",
     "phone": "928-925-5826",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 4,
     "recommended": true
   },
@@ -15270,7 +15270,7 @@
     "state_code": "AZ",
     "phone": "928-445-2151",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 39,
     "recommended": true
   },
@@ -15283,7 +15283,7 @@
     "state_code": "AZ",
     "phone": "928-771-2637",
     "website": "https://catholicworker.org/directory/az-prescott-quixotes-garage-html/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 9,
     "recommended": true
   },
@@ -15296,7 +15296,7 @@
     "state_code": "AZ",
     "phone": "928-308-0568",
     "website": "http://prescotthotrods.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 7,
     "recommended": true
   },
@@ -15920,7 +15920,7 @@
     "state_code": "AZ",
     "phone": "nan",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 4,
     "recommended": true
   },
@@ -15972,7 +15972,7 @@
     "state_code": "AZ",
     "phone": "928-443-8706",
     "website": null,
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 2,
     "recommended": true
   },
@@ -15985,7 +15985,7 @@
     "state_code": "AZ",
     "phone": "928-717-1960",
     "website": null,
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 2,
     "recommended": true
   },
@@ -16011,7 +16011,7 @@
     "state_code": "AZ",
     "phone": "928-830-6375",
     "website": "https://whiskeyrow-auto.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 65,
     "recommended": true
   },
@@ -16024,7 +16024,7 @@
     "state_code": "AZ",
     "phone": "928-925-9498",
     "website": "https://www.shoptswaz.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 75,
     "recommended": true
   },
@@ -16310,7 +16310,7 @@
     "state_code": "AZ",
     "phone": "928-458-5557",
     "website": "https://www.firestonecompleteautocare.com/arizona/prescott-valley/5514-east-state-route-69/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dlocalmaps%26cmp%3Doloc_google_localmaps_maps",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 463,
     "recommended": true
   },
@@ -16323,7 +16323,7 @@
     "state_code": "AZ",
     "phone": "480-396-3938",
     "website": "http://handiautomotive.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 45,
     "recommended": true
   },
@@ -16336,7 +16336,7 @@
     "state_code": "AZ",
     "phone": "602-526-3561",
     "website": "http://petersonautosolutions.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 11,
     "recommended": true
   },
@@ -16349,7 +16349,7 @@
     "state_code": "AZ",
     "phone": "602-980-0861",
     "website": "http://www.haydenautomotive.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 20,
     "recommended": true
   },
@@ -16362,7 +16362,7 @@
     "state_code": "AZ",
     "phone": "480-390-0612",
     "website": "https://lexpertautocare.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 208,
     "recommended": true
   },
@@ -16375,7 +16375,7 @@
     "state_code": "AZ",
     "phone": "833-707-7627",
     "website": "https://cometomycars.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 22,
     "recommended": true
   },
@@ -16765,7 +16765,7 @@
     "state_code": "AZ",
     "phone": "480-988-5066",
     "website": "https://santanhotrods.com/",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 23,
     "recommended": true
   },
@@ -16817,7 +16817,7 @@
     "state_code": "AZ",
     "phone": "520-548-0747",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -16856,7 +16856,7 @@
     "state_code": "AZ",
     "phone": "520-296-6936",
     "website": "http://www.rtstransmission.com/",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 4,
     "recommended": true
   },
@@ -16882,7 +16882,7 @@
     "state_code": "AZ",
     "phone": "480-322-3698",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 25,
     "recommended": true
   },
@@ -16895,7 +16895,7 @@
     "state_code": "AZ",
     "phone": "480-540-2145",
     "website": "https://www.facebook.com/TrueAutoSport/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -16908,7 +16908,7 @@
     "state_code": "AZ",
     "phone": "nan",
     "website": "https://headgasketpros.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 30,
     "recommended": true
   },
@@ -16921,7 +16921,7 @@
     "state_code": "AZ",
     "phone": "602-684-1678",
     "website": "https://coyotemobiletires.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -16934,7 +16934,7 @@
     "state_code": "AZ",
     "phone": "480-235-9301",
     "website": "https://azrimrepair.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 85,
     "recommended": true
   },
@@ -16947,7 +16947,7 @@
     "state_code": "AZ",
     "phone": "602-690-2018",
     "website": "https://www.allgodauto.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 68,
     "recommended": true
   },
@@ -17194,7 +17194,7 @@
     "state_code": "AZ",
     "phone": "480-247-6624",
     "website": "https://www.babbittmotorwerks.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 740,
     "recommended": true
   },
@@ -17207,7 +17207,7 @@
     "state_code": "AZ",
     "phone": "623-866-5540",
     "website": "https://scottsdale.topratedbusiness.com/scottsdale-auto-repair-center-near-me-top-rated/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 11,
     "recommended": true
   },
@@ -17220,7 +17220,7 @@
     "state_code": "AZ",
     "phone": "480-473-4722",
     "website": "https://scottsdaleeuropeanservice.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1343,
     "recommended": true
   },
@@ -17233,7 +17233,7 @@
     "state_code": "AZ",
     "phone": "480-922-0859",
     "website": "http://airparkautoclinic.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 585,
     "recommended": true
   },
@@ -17246,7 +17246,7 @@
     "state_code": "AZ",
     "phone": "602-412-7490",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 29,
     "recommended": true
   },
@@ -17259,7 +17259,7 @@
     "state_code": "AZ",
     "phone": "480-874-1084",
     "website": "http://www.azautodoctor.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 53,
     "recommended": true
   },
@@ -17974,7 +17974,7 @@
     "state_code": "AZ",
     "phone": "480-359-1087",
     "website": "http://www.aamcoscottsdaleroad.com/%3Futm_source%3DG%26utm_medium%3Dlocal%26utm_campaign%3Dgoogle-local",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 148,
     "recommended": true
   },
@@ -17987,7 +17987,7 @@
     "state_code": "AZ",
     "phone": "480-945-1177",
     "website": null,
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 10,
     "recommended": true
   },
@@ -18013,7 +18013,7 @@
     "state_code": "AZ",
     "phone": "928-301-4454",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -18026,7 +18026,7 @@
     "state_code": "AZ",
     "phone": "928-494-0008",
     "website": "http://rsquaredpowersports.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 15,
     "recommended": true
   },
@@ -18221,7 +18221,7 @@
     "state_code": "AZ",
     "phone": "928-457-6510",
     "website": "http://subierow.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 31,
     "recommended": true
   },
@@ -18234,7 +18234,7 @@
     "state_code": "AZ",
     "phone": "928-240-1284",
     "website": "https://www.crossedgefab.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 51,
     "recommended": true
   },
@@ -18247,7 +18247,7 @@
     "state_code": "AZ",
     "phone": "928-888-8801",
     "website": "http://www.mountain-motorsports.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 13,
     "recommended": true
   },
@@ -18260,7 +18260,7 @@
     "state_code": "AZ",
     "phone": "nan",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -18598,13 +18598,13 @@
     "state_code": "AZ",
     "phone": "928-537-5755",
     "website": "https://www.hatchtoyota.com/",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 24,
     "recommended": true
   },
   {
     "name": "S & D Auto Wrecking LLC",
-    "care_type": "Recycling center",
+    "care_type": "Auto repair shop",
     "address": "1590 E Frost, Show Low, AZ 85901",
     "city": "Show Low",
     "state": "Arizona",
@@ -18650,7 +18650,7 @@
     "state_code": "AZ",
     "phone": "nan",
     "website": "https://www.facebook.com/profile.php%3Fid%3D100090768120835%26mibextid%3DLQQJ4d",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 50,
     "recommended": true
   },
@@ -18663,7 +18663,7 @@
     "state_code": "AZ",
     "phone": "520-459-5200",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 23,
     "recommended": true
   },
@@ -18676,7 +18676,7 @@
     "state_code": "AZ",
     "phone": "520-895-8926",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 6,
     "recommended": true
   },
@@ -18689,7 +18689,7 @@
     "state_code": "AZ",
     "phone": "520-227-9875",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 14,
     "recommended": true
   },
@@ -18702,7 +18702,7 @@
     "state_code": "AZ",
     "phone": "nan",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -19170,7 +19170,7 @@
     "state_code": "AZ",
     "phone": "520-226-4810",
     "website": "https://edmorsechevroletgmcsierravistaservice.com/",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 14,
     "recommended": true
   },
@@ -19235,7 +19235,7 @@
     "state_code": "AZ",
     "phone": "520-455-3111",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 43,
     "recommended": true
   },
@@ -19261,7 +19261,7 @@
     "state_code": "AZ",
     "phone": "623-876-4116",
     "website": "http://www.scottrepmam.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 136,
     "recommended": true
   },
@@ -19326,7 +19326,7 @@
     "state_code": "AZ",
     "phone": "480-475-3416",
     "website": "https://www.mybrokencarepair.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 14,
     "recommended": true
   },
@@ -19339,7 +19339,7 @@
     "state_code": "AZ",
     "phone": "623-246-1881",
     "website": "https://www.bigotires.com/location/az/surprise/14023-w-grand-ave-85374/004273",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 24,
     "recommended": true
   },
@@ -19352,7 +19352,7 @@
     "state_code": "AZ",
     "phone": "623-271-5565",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -19872,7 +19872,7 @@
     "state_code": "AZ",
     "phone": "623-428-2068",
     "website": "https://www.firestonecompleteautocare.com/arizona/surprise/17038-w-bell-rd/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dlocalmaps%26cmp%3Doloc_google_localmaps_maps",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 541,
     "recommended": true
   },
@@ -19924,7 +19924,7 @@
     "state_code": "AZ",
     "phone": "602-206-0442",
     "website": null,
-    "rating": 2.0,
+    "rating": 2,
     "reviews": 1,
     "recommended": false
   },
@@ -19963,7 +19963,7 @@
     "state_code": "AZ",
     "phone": "480-377-0638",
     "website": "http://www.hon-man.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 430,
     "recommended": true
   },
@@ -19976,7 +19976,7 @@
     "state_code": "AZ",
     "phone": "602-325-5022",
     "website": "https://kobyautoservice.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 7,
     "recommended": true
   },
@@ -19989,7 +19989,7 @@
     "state_code": "AZ",
     "phone": "689-251-9386",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 21,
     "recommended": true
   },
@@ -20002,7 +20002,7 @@
     "state_code": "AZ",
     "phone": "480-508-0938",
     "website": "http://www.trustedauto.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 524,
     "recommended": true
   },
@@ -20015,7 +20015,7 @@
     "state_code": "AZ",
     "phone": "209-361-4903",
     "website": "https://lyautorepair.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 33,
     "recommended": true
   },
@@ -20028,7 +20028,7 @@
     "state_code": "AZ",
     "phone": "480-777-3774",
     "website": "http://babbittmotorwerks.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 842,
     "recommended": true
   },
@@ -20041,7 +20041,7 @@
     "state_code": "AZ",
     "phone": "480-666-3558",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 24,
     "recommended": true
   },
@@ -20054,7 +20054,7 @@
     "state_code": "AZ",
     "phone": "480-771-5062",
     "website": "https://tempeautorepairshop.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 5,
     "recommended": true
   },
@@ -20067,7 +20067,7 @@
     "state_code": "AZ",
     "phone": "480-264-9284",
     "website": "https://www.liftnwrenchaz.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 67,
     "recommended": true
   },
@@ -20080,7 +20080,7 @@
     "state_code": "AZ",
     "phone": "602-859-3920",
     "website": "https://versusautoshop.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 14,
     "recommended": true
   },
@@ -20093,7 +20093,7 @@
     "state_code": "AZ",
     "phone": "480-531-2088",
     "website": "https://www.lorsgarage.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 32,
     "recommended": true
   },
@@ -20106,7 +20106,7 @@
     "state_code": "AZ",
     "phone": "480-921-2921",
     "website": "http://bs-motorsports.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 128,
     "recommended": true
   },
@@ -20119,7 +20119,7 @@
     "state_code": "AZ",
     "phone": "480-913-1626",
     "website": "http://www.justbetterfleet.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 43,
     "recommended": true
   },
@@ -20132,7 +20132,7 @@
     "state_code": "AZ",
     "phone": "480-968-1673",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 44,
     "recommended": true
   },
@@ -20145,7 +20145,7 @@
     "state_code": "AZ",
     "phone": "480-255-2346",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
@@ -20873,7 +20873,7 @@
     "state_code": "AZ",
     "phone": "480-418-4967",
     "website": "https://www.tempemobilemechanic.com/",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 27,
     "recommended": true
   },
@@ -20886,7 +20886,7 @@
     "state_code": "AZ",
     "phone": "623-755-9787",
     "website": null,
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 4,
     "recommended": true
   },
@@ -20912,7 +20912,7 @@
     "state_code": "AZ",
     "phone": "240-848-8948",
     "website": "https://streetsavvyautoservices.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 14,
     "recommended": true
   },
@@ -21016,7 +21016,7 @@
     "state_code": "AZ",
     "phone": "623-478-0113",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 87,
     "recommended": true
   },
@@ -21068,7 +21068,7 @@
     "state_code": "AZ",
     "phone": "602-688-9416",
     "website": null,
-    "rating": 1.0,
+    "rating": 1,
     "reviews": 1,
     "recommended": false
   },
@@ -21107,7 +21107,7 @@
     "state_code": "AZ",
     "phone": "480-261-4117",
     "website": "http://www.ramonsmobilemechanic.com/",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 91,
     "recommended": true
   },
@@ -21120,7 +21120,7 @@
     "state_code": "AZ",
     "phone": "520-572-1776",
     "website": "https://freedomautomotiverepair.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 49,
     "recommended": true
   },
@@ -21133,7 +21133,7 @@
     "state_code": "AZ",
     "phone": "520-612-6919",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 14,
     "recommended": true
   },
@@ -21146,7 +21146,7 @@
     "state_code": "AZ",
     "phone": "520-203-8485",
     "website": "https://topnotchautocarellc.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 335,
     "recommended": true
   },
@@ -21159,7 +21159,7 @@
     "state_code": "AZ",
     "phone": "520-900-2690",
     "website": "http://www.herrerasautomotive.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 57,
     "recommended": true
   },
@@ -21172,7 +21172,7 @@
     "state_code": "AZ",
     "phone": "520-748-2158",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 79,
     "recommended": true
   },
@@ -21185,7 +21185,7 @@
     "state_code": "AZ",
     "phone": "520-664-8770",
     "website": "http://rambersonauto.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 56,
     "recommended": true
   },
@@ -21198,7 +21198,7 @@
     "state_code": "AZ",
     "phone": "520-230-3911",
     "website": "https://gvcautoaz.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 27,
     "recommended": true
   },
@@ -21211,7 +21211,7 @@
     "state_code": "AZ",
     "phone": "520-906-0584",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 8,
     "recommended": true
   },
@@ -21224,7 +21224,7 @@
     "state_code": "AZ",
     "phone": "520-309-1345",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 20,
     "recommended": true
   },
@@ -21237,7 +21237,7 @@
     "state_code": "AZ",
     "phone": "520-332-2733",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -21250,7 +21250,7 @@
     "state_code": "AZ",
     "phone": "520-839-0297",
     "website": "https://rpmmobilemechanic.com/rpm-mobile-mechanic-of-tucson/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -21263,7 +21263,7 @@
     "state_code": "AZ",
     "phone": "520-624-8509",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 18,
     "recommended": true
   },
@@ -21276,7 +21276,7 @@
     "state_code": "AZ",
     "phone": "520-783-1346",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 3,
     "recommended": true
   },
@@ -21289,7 +21289,7 @@
     "state_code": "AZ",
     "phone": "520-704-8734",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
@@ -23187,7 +23187,7 @@
     "state_code": "AZ",
     "phone": "520-441-6227",
     "website": "https://www.meineke.com/locations/az/tucson-4089/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgbp_website",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 514,
     "recommended": true
   },
@@ -23278,7 +23278,7 @@
     "state_code": "AZ",
     "phone": "623-208-1903",
     "website": "https://azmobilemech.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 41,
     "recommended": true
   },
@@ -23343,7 +23343,7 @@
     "state_code": "AZ",
     "phone": "623-210-7525",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 82,
     "recommended": true
   },
@@ -23408,7 +23408,7 @@
     "state_code": "AZ",
     "phone": "928-247-2720",
     "website": "https://free-5625478.webadorsite.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 83,
     "recommended": true
   },
@@ -23421,7 +23421,7 @@
     "state_code": "AZ",
     "phone": "602-702-1866",
     "website": "http://yumadesertauto.godaddysites.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 19,
     "recommended": true
   },
@@ -23434,7 +23434,7 @@
     "state_code": "AZ",
     "phone": "928-941-1088",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 6,
     "recommended": true
   },
@@ -23447,7 +23447,7 @@
     "state_code": "AZ",
     "phone": "928-276-4243",
     "website": "https://www.facebook.com/profile.php%3Fid%3D100083718663171",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 8,
     "recommended": true
   },
@@ -23460,7 +23460,7 @@
     "state_code": "AZ",
     "phone": "928-750-0686",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 50,
     "recommended": true
   },
@@ -23473,7 +23473,7 @@
     "state_code": "AZ",
     "phone": "928-783-9471",
     "website": "http://bordertownautodiesel.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 11,
     "recommended": true
   },
@@ -23486,7 +23486,7 @@
     "state_code": "AZ",
     "phone": "928-247-5698",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -23499,7 +23499,7 @@
     "state_code": "AZ",
     "phone": "928-783-8158",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
@@ -23960,7 +23960,7 @@
   },
   {
     "name": "Charo's Audio Plus",
-    "care_type": "Car stereo store",
+    "care_type": "Auto repair shop",
     "address": "948 S 4th Ave, Yuma, AZ 85364",
     "city": "Yuma",
     "state": "Arizona",
@@ -24500,7 +24500,7 @@
     "state_code": "AZ",
     "phone": "928-259-2466",
     "website": "https://www.pepboys.com/stores/az/yuma/155-w-32nd-st%3FCid%3Dgbp_appt_AN:PB%257CPB:G%257CTT:GBP%257CCG:CONVERSION%257CCD:SERVICE",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 689,
     "recommended": true
   },
@@ -24513,7 +24513,7 @@
     "state_code": "AZ",
     "phone": "928-782-7620",
     "website": "http://www.risingstarcollisionyuma.com/",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 50,
     "recommended": true
   },
@@ -24526,7 +24526,7 @@
     "state_code": "AZ",
     "phone": "928-259-0504",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 4,
     "recommended": true
   },
@@ -24539,7 +24539,7 @@
     "state_code": "AZ",
     "phone": "928-783-2222",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 12,
     "recommended": true
   },

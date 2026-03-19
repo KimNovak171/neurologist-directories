@@ -21,7 +21,7 @@
     "state_code": "AR",
     "phone": "501-847-9670",
     "website": null,
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 76,
     "recommended": true
   },
@@ -47,7 +47,7 @@
     "state_code": "AR",
     "phone": "870-569-4415",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 6,
     "recommended": true
   },
@@ -60,7 +60,7 @@
     "state_code": "AR",
     "phone": "870-569-4092",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 14,
     "recommended": true
   },
@@ -281,7 +281,7 @@
     "state_code": "AR",
     "phone": "501-316-3352",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 9,
     "recommended": true
   },
@@ -294,7 +294,7 @@
     "state_code": "AR",
     "phone": "501-794-6276",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 36,
     "recommended": true
   },
@@ -307,7 +307,7 @@
     "state_code": "AR",
     "phone": "501-559-4771",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -320,7 +320,7 @@
     "state_code": "AR",
     "phone": "501-326-3162",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 15,
     "recommended": true
   },
@@ -333,7 +333,7 @@
     "state_code": "AR",
     "phone": "870-883-4641",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 7,
     "recommended": true
   },
@@ -346,7 +346,7 @@
     "state_code": "AR",
     "phone": "501-350-5626",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 16,
     "recommended": true
   },
@@ -359,7 +359,7 @@
     "state_code": "AR",
     "phone": "501-860-5311",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 7,
     "recommended": true
   },
@@ -372,7 +372,7 @@
     "state_code": "AR",
     "phone": "501-351-4127",
     "website": "https://www.facebook.com/Dustin-Stuarts-Collision-Repair-LLC-110880193650197/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 33,
     "recommended": true
   },
@@ -385,7 +385,7 @@
     "state_code": "AR",
     "phone": "501-315-1808",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 3,
     "recommended": true
   },
@@ -398,7 +398,7 @@
     "state_code": "AR",
     "phone": "nan",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -411,7 +411,7 @@
     "state_code": "AR",
     "phone": "870-615-4444",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 7,
     "recommended": true
   },
@@ -424,7 +424,7 @@
     "state_code": "AR",
     "phone": "615-588-7320",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 7,
     "recommended": true
   },
@@ -437,7 +437,7 @@
     "state_code": "AR",
     "phone": "501-326-1495",
     "website": "https://thebusbarnltdco.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 16,
     "recommended": true
   },
@@ -450,7 +450,7 @@
     "state_code": "AR",
     "phone": "501-574-1880",
     "website": "https://www.facebook.com/baselineatbenton%3Fmibextid%3DZbWKwL",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -463,7 +463,7 @@
     "state_code": "AR",
     "phone": "501-766-5619",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 6,
     "recommended": true
   },
@@ -476,7 +476,7 @@
     "state_code": "AR",
     "phone": "501-776-3604",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
@@ -489,7 +489,7 @@
     "state_code": "AR",
     "phone": "501-840-2293",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -918,7 +918,7 @@
     "state_code": "AR",
     "phone": "501-860-7608",
     "website": "https://www.walmart.com/store/85-benton-ar/auto-care-center/%3Fveh%3Dseo_loc",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 163,
     "recommended": true
   },
@@ -983,7 +983,7 @@
     "state_code": "AR",
     "phone": "479-273-1010",
     "website": "http://nemtecauto.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 92,
     "recommended": true
   },
@@ -996,7 +996,7 @@
     "state_code": "AR",
     "phone": "479-877-8845",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
@@ -1009,7 +1009,7 @@
     "state_code": "AR",
     "phone": "479-273-7674",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 8,
     "recommended": true
   },
@@ -1568,7 +1568,7 @@
     "state_code": "AR",
     "phone": "870-740-2259",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
@@ -1581,7 +1581,7 @@
     "state_code": "AR",
     "phone": "nan",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 4,
     "recommended": true
   },
@@ -1594,7 +1594,7 @@
     "state_code": "AR",
     "phone": "870-680-2919",
     "website": "https://www.herrentireservice.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 16,
     "recommended": true
   },
@@ -1607,7 +1607,7 @@
     "state_code": "AR",
     "phone": "870-278-3328",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 3,
     "recommended": true
   },
@@ -1620,7 +1620,7 @@
     "state_code": "AR",
     "phone": "870-763-6981",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "recommended": true
   },
@@ -1958,7 +1958,7 @@
     "state_code": "AR",
     "phone": "501-326-2373",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 30,
     "recommended": true
   },
@@ -1971,7 +1971,7 @@
     "state_code": "AR",
     "phone": "501-472-9468",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 14,
     "recommended": true
   },
@@ -2166,7 +2166,7 @@
     "state_code": "AR",
     "phone": "501-259-0748",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 35,
     "recommended": true
   },
@@ -2179,7 +2179,7 @@
     "state_code": "AR",
     "phone": "501-676-3808",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 31,
     "recommended": true
   },
@@ -2192,7 +2192,7 @@
     "state_code": "AR",
     "phone": "501-259-3687",
     "website": "http://maniacmechanicsll.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -2205,7 +2205,7 @@
     "state_code": "AR",
     "phone": "501-422-8449",
     "website": "http://rightguysdieselrepairandtirellc.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
@@ -2218,7 +2218,7 @@
     "state_code": "AR",
     "phone": "501-843-3536",
     "website": "https://www.redriverfordcabot.net/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 7,
     "recommended": true
   },
@@ -2231,7 +2231,7 @@
     "state_code": "AR",
     "phone": "501-606-4209",
     "website": "https://www.kkcrepair.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 9,
     "recommended": true
   },
@@ -2244,7 +2244,7 @@
     "state_code": "AR",
     "phone": "501-286-7968",
     "website": "https://sqronecollision.my.canva.site/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 22,
     "recommended": true
   },
@@ -2257,7 +2257,7 @@
     "state_code": "AR",
     "phone": "501-843-5966",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 13,
     "recommended": true
   },
@@ -2608,7 +2608,7 @@
     "state_code": "AR",
     "phone": "346-527-1800",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 4,
     "recommended": true
   },
@@ -2621,7 +2621,7 @@
     "state_code": "AR",
     "phone": "nan",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 4,
     "recommended": true
   },
@@ -2634,7 +2634,7 @@
     "state_code": "AR",
     "phone": "870-836-2100",
     "website": "https://www.jimgoldenford.net/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -2647,7 +2647,7 @@
     "state_code": "AR",
     "phone": "870-818-2387",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
@@ -2842,7 +2842,7 @@
     "state_code": "AR",
     "phone": "870-836-9340",
     "website": null,
-    "rating": 1.0,
+    "rating": 1,
     "reviews": 1,
     "recommended": false
   },
@@ -2946,7 +2946,7 @@
     "state_code": "AR",
     "phone": "501-504-6672",
     "website": "https://neatcarconway.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 13,
     "recommended": true
   },
@@ -2959,7 +2959,7 @@
     "state_code": "AR",
     "phone": "501-504-6979",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -2972,7 +2972,7 @@
     "state_code": "AR",
     "phone": "501-358-7575",
     "website": "https://www.aamcoconwayar.com/%3Futm_source%3DG%26utm_medium%3Dlocal%26utm_campaign%3Dgoogle-local",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 27,
     "recommended": true
   },
@@ -2985,7 +2985,7 @@
     "state_code": "AR",
     "phone": "501-328-3115",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 4,
     "recommended": true
   },
@@ -2998,7 +2998,7 @@
     "state_code": "AR",
     "phone": "501-585-9200",
     "website": "https://www.localtireandwheel.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 13,
     "recommended": true
   },
@@ -3011,7 +3011,7 @@
     "state_code": "AR",
     "phone": "501-329-3441",
     "website": "https://acrmobileglassllc.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
@@ -3024,7 +3024,7 @@
     "state_code": "AR",
     "phone": "501-548-6000",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -3251,7 +3251,7 @@
   },
   {
     "name": "Conway Glass Tinting Plus Inc.",
-    "care_type": "Window tinting service",
+    "care_type": "Auto repair shop",
     "address": "701 W 6th St, Conway, AR 72032",
     "city": "Conway",
     "state": "Arkansas",
@@ -3609,7 +3609,7 @@
     "state_code": "AR",
     "phone": "501-796-8209",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 17,
     "recommended": true
   },
@@ -3622,7 +3622,7 @@
     "state_code": "AR",
     "phone": "501-327-2377",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 155,
     "recommended": true
   },
@@ -3726,7 +3726,7 @@
     "state_code": "AR",
     "phone": "501-336-9494",
     "website": null,
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 2,
     "recommended": true
   },
@@ -3739,7 +3739,7 @@
     "state_code": "AR",
     "phone": "501-426-5492",
     "website": "https://www.countryboyloaded.com/service-department/service-and-parts-tips/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgbp%2Bservice%26utm_content%3Dwebsite",
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 2,
     "recommended": true
   },
@@ -3765,7 +3765,7 @@
     "state_code": "AR",
     "phone": "501-730-8669",
     "website": null,
-    "rating": 1.0,
+    "rating": 1,
     "reviews": 1,
     "recommended": false
   },
@@ -3817,7 +3817,7 @@
     "state_code": "AR",
     "phone": "870-863-5436",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 3,
     "recommended": true
   },
@@ -3830,7 +3830,7 @@
     "state_code": "AR",
     "phone": "870-639-1297",
     "website": "https://www.facebook.com/Slam-Mechanic-Service-LLC-108805221464036",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 14,
     "recommended": true
   },
@@ -3843,7 +3843,7 @@
     "state_code": "AR",
     "phone": "870-814-1361",
     "website": "https://southern-automotive.ueniweb.com/%3Futm_campaign%3Dgmb",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 9,
     "recommended": true
   },
@@ -3856,7 +3856,7 @@
     "state_code": "AR",
     "phone": "870-864-0900",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
@@ -3869,7 +3869,7 @@
     "state_code": "AR",
     "phone": "870-312-4342",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -3901,7 +3901,7 @@
   },
   {
     "name": "Norris Mechanical Shop Inc",
-    "care_type": "Air conditioning contractor",
+    "care_type": "Auto repair shop",
     "address": "2400 Lorene St, El Dorado, AR 71730",
     "city": "El Dorado",
     "state": "Arkansas",
@@ -4168,7 +4168,7 @@
     "state_code": "AR",
     "phone": "870-863-8091",
     "website": null,
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 3,
     "recommended": true
   },
@@ -4207,7 +4207,7 @@
     "state_code": "AR",
     "phone": "910-356-9040",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -4220,7 +4220,7 @@
     "state_code": "AR",
     "phone": "479-521-3432",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
@@ -4675,7 +4675,7 @@
     "state_code": "AR",
     "phone": "479-973-9343",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 76,
     "recommended": true
   },
@@ -4701,7 +4701,7 @@
     "state_code": "AR",
     "phone": "870-317-4009",
     "website": "https://homegarageautorepair.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 62,
     "recommended": true
   },
@@ -4714,7 +4714,7 @@
     "state_code": "AR",
     "phone": "870-270-4460",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 184,
     "recommended": true
   },
@@ -4727,7 +4727,7 @@
     "state_code": "AR",
     "phone": "870-633-4437",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 34,
     "recommended": true
   },
@@ -4740,7 +4740,7 @@
     "state_code": "AR",
     "phone": "870-494-1311",
     "website": "https://www.facebook.com/profile.php%3Fid%3D61570393970668%26mibextid%3DZbWKwL",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -4753,7 +4753,7 @@
     "state_code": "AR",
     "phone": "870-317-7666",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 5,
     "recommended": true
   },
@@ -4922,7 +4922,7 @@
     "state_code": "AR",
     "phone": "870-317-9978",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 50,
     "recommended": true
   },
@@ -4935,7 +4935,7 @@
     "state_code": "AR",
     "phone": "870-633-0527",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 14,
     "recommended": true
   },
@@ -4948,7 +4948,7 @@
     "state_code": "AR",
     "phone": "870-581-0559",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 4,
     "recommended": true
   },
@@ -5026,7 +5026,7 @@
     "state_code": "AR",
     "phone": "870-630-7539",
     "website": "https://www.facebook.com/profile.php%3Fid%3D100057404681345%26mibextid%3DZbWKwL",
-    "rating": 1.0,
+    "rating": 1,
     "reviews": 2,
     "recommended": false
   },
@@ -5065,7 +5065,7 @@
     "state_code": "AR",
     "phone": "nan",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -5078,7 +5078,7 @@
     "state_code": "AR",
     "phone": "479-200-4541",
     "website": "https://cruisingauto.net/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 6,
     "recommended": true
   },
@@ -5091,7 +5091,7 @@
     "state_code": "AR",
     "phone": "479-785-1589",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 4,
     "recommended": true
   },
@@ -5104,7 +5104,7 @@
     "state_code": "AR",
     "phone": "479-289-0715",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 10,
     "recommended": true
   },
@@ -5117,7 +5117,7 @@
     "state_code": "AR",
     "phone": "479-434-4203",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 5,
     "recommended": true
   },
@@ -5715,7 +5715,7 @@
     "state_code": "AR",
     "phone": "479-401-2208",
     "website": "https://www.firestonecompleteautocare.com/arkansas/fort-smith/4901-rogers-ave/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dlocalmaps%26cmp%3Doloc_google_localmaps_maps",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 620,
     "recommended": true
   },
@@ -5728,7 +5728,7 @@
     "state_code": "AR",
     "phone": "nan",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 11,
     "recommended": true
   },
@@ -5741,7 +5741,7 @@
     "state_code": "AR",
     "phone": "479-494-7778",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 7,
     "recommended": true
   },
@@ -5936,7 +5936,7 @@
     "state_code": "AR",
     "phone": "870-743-0028",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 21,
     "recommended": true
   },
@@ -5949,7 +5949,7 @@
     "state_code": "AR",
     "phone": "870-278-1090",
     "website": "http://383customz.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 40,
     "recommended": true
   },
@@ -5962,7 +5962,7 @@
     "state_code": "AR",
     "phone": "870-688-9330",
     "website": "https://www.facebook.com/people/X-Hail/100027716691940/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -5975,7 +5975,7 @@
     "state_code": "AR",
     "phone": "870-688-3264",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -5988,7 +5988,7 @@
     "state_code": "AR",
     "phone": "870-741-8960",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -6001,7 +6001,7 @@
     "state_code": "AR",
     "phone": "nan",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -6378,7 +6378,7 @@
     "state_code": "AR",
     "phone": "870-743-8030",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 2,
     "recommended": true
   },
@@ -6417,7 +6417,7 @@
     "state_code": "AR",
     "phone": "870-741-9766",
     "website": null,
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 2,
     "recommended": true
   },
@@ -6495,7 +6495,7 @@
     "state_code": "AR",
     "phone": "501-525-4100",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 41,
     "recommended": true
   },
@@ -6508,7 +6508,7 @@
     "state_code": "AR",
     "phone": "501-525-3673",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -6521,7 +6521,7 @@
     "state_code": "AR",
     "phone": "nan",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 6,
     "recommended": true
   },
@@ -6534,7 +6534,7 @@
     "state_code": "AR",
     "phone": "501-445-8954",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 3,
     "recommended": true
   },
@@ -6547,7 +6547,7 @@
     "state_code": "AR",
     "phone": "870-643-0661",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 4,
     "recommended": true
   },
@@ -6560,7 +6560,7 @@
     "state_code": "AR",
     "phone": "501-623-3488",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 22,
     "recommended": true
   },
@@ -6573,7 +6573,7 @@
     "state_code": "AR",
     "phone": "501-494-0092",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 6,
     "recommended": true
   },
@@ -7034,7 +7034,7 @@
   },
   {
     "name": "Glisson's Motorsports",
-    "care_type": "Car stereo store",
+    "care_type": "Auto repair shop",
     "address": "920 Hobson Ave, Hot Springs, AR 71913",
     "city": "Hot Springs",
     "state": "Arkansas",
@@ -7060,7 +7060,7 @@
   },
   {
     "name": "Quality Wheelz",
-    "care_type": "RV dealer",
+    "care_type": "Auto repair shop",
     "address": "1239 Central Ave, Hot Springs, AR 71901",
     "city": "Hot Springs",
     "state": "Arkansas",
@@ -7132,7 +7132,7 @@
     "state_code": "AR",
     "phone": "501-693-9642",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 4,
     "recommended": true
   },
@@ -7145,7 +7145,7 @@
     "state_code": "AR",
     "phone": "501-802-4651",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 1,
     "recommended": true
   },
@@ -7392,7 +7392,7 @@
     "state_code": "AR",
     "phone": "501-318-1331",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 38,
     "recommended": true
   },
@@ -7405,7 +7405,7 @@
     "state_code": "AR",
     "phone": "501-363-2880",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 6,
     "recommended": true
   },
@@ -7418,7 +7418,7 @@
     "state_code": "AR",
     "phone": "501-922-7555",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 21,
     "recommended": true
   },
@@ -7483,7 +7483,7 @@
     "state_code": "AR",
     "phone": "501-988-3508",
     "website": "https://titanautoservices.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 34,
     "recommended": true
   },
@@ -7496,7 +7496,7 @@
     "state_code": "AR",
     "phone": "501-392-4670",
     "website": "https://www.twistedautodiesel.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 52,
     "recommended": true
   },
@@ -7509,7 +7509,7 @@
     "state_code": "AR",
     "phone": "501-539-3114",
     "website": "https://howardsautomotiverepair.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 23,
     "recommended": true
   },
@@ -7522,7 +7522,7 @@
     "state_code": "AR",
     "phone": "501-457-7431",
     "website": "http://americanautollc.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 36,
     "recommended": true
   },
@@ -7717,7 +7717,7 @@
     "state_code": "AR",
     "phone": "nan",
     "website": null,
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 4,
     "recommended": true
   },
@@ -7730,7 +7730,7 @@
     "state_code": "AR",
     "phone": "501-436-4529",
     "website": null,
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 1,
     "recommended": true
   },
@@ -7782,7 +7782,7 @@
     "state_code": "AR",
     "phone": "870-206-7530",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 25,
     "recommended": true
   },
@@ -7795,7 +7795,7 @@
     "state_code": "AR",
     "phone": "870-707-1615",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
@@ -7808,7 +7808,7 @@
     "state_code": "AR",
     "phone": "870-910-0153",
     "website": "https://xtremehotrodsar.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 24,
     "recommended": true
   },
@@ -7821,7 +7821,7 @@
     "state_code": "AR",
     "phone": "870-243-7157",
     "website": "https://kevinsgarage.weebly.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 7,
     "recommended": true
   },
@@ -7834,7 +7834,7 @@
     "state_code": "AR",
     "phone": "870-275-5390",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 5,
     "recommended": true
   },
@@ -7847,7 +7847,7 @@
     "state_code": "AR",
     "phone": "844-464-5826",
     "website": "http://www.expressmobilelube.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 203,
     "recommended": true
   },
@@ -7860,7 +7860,7 @@
     "state_code": "AR",
     "phone": "870-568-6333",
     "website": "https://www.summitadventureoutfitters.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
@@ -7873,7 +7873,7 @@
     "state_code": "AR",
     "phone": "870-932-0333",
     "website": "https://www.bayirdpreowned.com/service/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
@@ -7886,7 +7886,7 @@
     "state_code": "AR",
     "phone": "870-450-8515",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
@@ -8523,7 +8523,7 @@
     "state_code": "AR",
     "phone": "870-273-7817",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 4,
     "recommended": true
   },
@@ -8679,7 +8679,7 @@
     "state_code": "AR",
     "phone": "501-644-2678",
     "website": "https://techxpressinc.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 54,
     "recommended": true
   },
@@ -8692,7 +8692,7 @@
     "state_code": "AR",
     "phone": "501-992-8066",
     "website": "https://m.facebook.com/profile.php%3Fid%3D100091713822308%26name%3Dxhp_nt__fb__action__open_user",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
@@ -8705,7 +8705,7 @@
     "state_code": "AR",
     "phone": "501-372-2387",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 20,
     "recommended": true
   },
@@ -8718,7 +8718,7 @@
     "state_code": "AR",
     "phone": "501-309-1956",
     "website": "https://www.deezjet.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
@@ -8731,7 +8731,7 @@
     "state_code": "AR",
     "phone": "501-737-4975",
     "website": "https://mobiletruckrepairlittlerock.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 3,
     "recommended": true
   },
@@ -8744,7 +8744,7 @@
     "state_code": "AR",
     "phone": "501-838-2286",
     "website": "https://mylesautorepair.com/%3Futm_source%3Dcumulus%26utm_medium%3Donlinepresence%26utm_campaign%3Dgbp",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 25,
     "recommended": true
   },
@@ -8757,7 +8757,7 @@
     "state_code": "AR",
     "phone": "501-404-9754",
     "website": "https://carkeyreplacementlittlerock.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 52,
     "recommended": true
   },
@@ -9212,7 +9212,7 @@
     "state_code": "AR",
     "phone": "501-224-1991",
     "website": "http://www.donniesforeigncar.com/",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 148,
     "recommended": true
   },
@@ -9225,7 +9225,7 @@
     "state_code": "AR",
     "phone": "501-712-5201",
     "website": "https://www.firestonecompleteautocare.com/arkansas/little-rock/920-w-3rd-st/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dlocalmaps%26cmp%3Doloc_google_localmaps_maps",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 375,
     "recommended": true
   },
@@ -9238,7 +9238,7 @@
     "state_code": "AR",
     "phone": "501-683-8273",
     "website": "https://www.midas.com/store/ar/little-rock/9214-rodney-parham-72227%3Fshopnum%3D5104%26utm_source%3Dgoogle%26utm_medium%3Dmaps%26utm_campaign%3Dgoogle%2Bmaps%26y_source%3D1_MTE1ODY2MjktNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 375,
     "recommended": true
   },
@@ -9394,7 +9394,7 @@
     "state_code": "AR",
     "phone": "479-880-3724",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 10,
     "recommended": true
   },
@@ -9446,7 +9446,7 @@
     "state_code": "AR",
     "phone": "870-949-6666",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 5,
     "recommended": true
   },
@@ -9459,7 +9459,7 @@
     "state_code": "AR",
     "phone": "870-709-2746",
     "website": "https://autobodyshopmagnolia.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 4,
     "recommended": true
   },
@@ -9680,7 +9680,7 @@
     "state_code": "AR",
     "phone": "870-394-9938",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
@@ -9693,7 +9693,7 @@
     "state_code": "AR",
     "phone": "870-225-6644",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -9706,7 +9706,7 @@
     "state_code": "AR",
     "phone": "901-254-0241",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 4,
     "recommended": true
   },
@@ -9719,7 +9719,7 @@
     "state_code": "AR",
     "phone": "870-530-5225",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -9901,7 +9901,7 @@
     "state_code": "AR",
     "phone": "nan",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
@@ -10161,7 +10161,7 @@
     "state_code": "AR",
     "phone": "870-391-9455",
     "website": "https://usmapid.org/details/mobile-mechanic-service-ChIJy4L",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 32,
     "recommended": true
   },
@@ -10174,7 +10174,7 @@
     "state_code": "AR",
     "phone": "870-580-0969",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 2,
     "recommended": true
   },
@@ -10239,7 +10239,7 @@
     "state_code": "AR",
     "phone": "479-369-4002",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 5,
     "recommended": true
   },
@@ -10265,7 +10265,7 @@
     "state_code": "AR",
     "phone": "501-766-7818",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 36,
     "recommended": true
   },
@@ -10278,7 +10278,7 @@
     "state_code": "AR",
     "phone": "501-779-2473",
     "website": "https://soonerautosales.myshopify.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 35,
     "recommended": true
   },
@@ -10291,7 +10291,7 @@
     "state_code": "AR",
     "phone": "nan",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
@@ -10304,7 +10304,7 @@
     "state_code": "AR",
     "phone": "501-615-8835",
     "website": "http://pauliesvw.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 163,
     "recommended": true
   },
@@ -10317,7 +10317,7 @@
     "state_code": "AR",
     "phone": "501-753-7713",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -10330,7 +10330,7 @@
     "state_code": "AR",
     "phone": "501-398-9060",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 8,
     "recommended": true
   },
@@ -10343,7 +10343,7 @@
     "state_code": "AR",
     "phone": "501-400-5675",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 10,
     "recommended": true
   },
@@ -10785,7 +10785,7 @@
     "state_code": "AR",
     "phone": "501-771-7400",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 84,
     "recommended": true
   },
@@ -10798,7 +10798,7 @@
     "state_code": "AR",
     "phone": "501-490-9215",
     "website": "https://www.firestonecompleteautocare.com/arkansas/north-little-rock/3929-mccain-blvd/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dlocalmaps%26cmp%3Doloc_google_localmaps_maps",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 591,
     "recommended": true
   },
@@ -10811,7 +10811,7 @@
     "state_code": "AR",
     "phone": "501-374-8473",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "recommended": true
   },
@@ -10941,7 +10941,7 @@
     "state_code": "AR",
     "phone": "870-573-4349",
     "website": "https://autorepairparagould.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 24,
     "recommended": true
   },
@@ -10954,7 +10954,7 @@
     "state_code": "AR",
     "phone": "870-787-1800",
     "website": "https://pitstoptire.us/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 8,
     "recommended": true
   },
@@ -10967,7 +10967,7 @@
     "state_code": "AR",
     "phone": "nan",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -10980,7 +10980,7 @@
     "state_code": "AR",
     "phone": "870-634-6769",
     "website": "http://www.neaautohailrepair.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 7,
     "recommended": true
   },
@@ -11318,7 +11318,7 @@
     "state_code": "AR",
     "phone": "870-236-8930",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 47,
     "recommended": true
   },
@@ -11357,7 +11357,7 @@
     "state_code": "AR",
     "phone": "870-236-3488",
     "website": null,
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 1,
     "recommended": true
   },
@@ -11370,7 +11370,7 @@
     "state_code": "AR",
     "phone": "870-236-8546",
     "website": "https://www.glensainford.net/",
-    "rating": 1.0,
+    "rating": 1,
     "reviews": 1,
     "recommended": false
   },
@@ -11422,7 +11422,7 @@
     "state_code": "AR",
     "phone": "870-872-1937",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
@@ -11435,7 +11435,7 @@
     "state_code": "AR",
     "phone": "870-535-6858",
     "website": "https://cochranpowersports.com/Services/Service-Department%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3DGMB-service",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -11448,7 +11448,7 @@
     "state_code": "AR",
     "phone": "870-329-5178",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 4,
     "recommended": true
   },
@@ -11461,7 +11461,7 @@
     "state_code": "AR",
     "phone": "870-329-3853",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
@@ -11812,7 +11812,7 @@
     "state_code": "AR",
     "phone": "870-377-1116",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 21,
     "recommended": true
   },
@@ -11825,7 +11825,7 @@
     "state_code": "AR",
     "phone": "870-905-8473",
     "website": "https://midtowntirepb.com/",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 96,
     "recommended": true
   },
@@ -11838,7 +11838,7 @@
     "state_code": "AR",
     "phone": "870-541-0744",
     "website": "http://www.facebook.com/armortireandauto",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 12,
     "recommended": true
   },
@@ -11851,7 +11851,7 @@
     "state_code": "AR",
     "phone": "nan",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 8,
     "recommended": true
   },
@@ -11916,7 +11916,7 @@
     "state_code": "AR",
     "phone": "870-209-5033",
     "website": null,
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 1,
     "recommended": true
   },
@@ -11929,7 +11929,7 @@
     "state_code": "AR",
     "phone": "870-413-8888",
     "website": "https://speedy-auto-mechanic-repair.ueniweb.com/%3Futm_campaign%3Dgmb",
-    "rating": 1.0,
+    "rating": 1,
     "reviews": 2,
     "recommended": false
   },
@@ -11942,7 +11942,7 @@
     "state_code": "AR",
     "phone": "nan",
     "website": null,
-    "rating": 1.0,
+    "rating": 1,
     "reviews": 3,
     "recommended": false
   },
@@ -11955,7 +11955,7 @@
     "state_code": "AR",
     "phone": "479-278-2170",
     "website": "https://nutzauto.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 44,
     "recommended": true
   },
@@ -11968,7 +11968,7 @@
     "state_code": "AR",
     "phone": "479-420-0003",
     "website": "http://www.hawgwilautoworks.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -11981,7 +11981,7 @@
     "state_code": "AR",
     "phone": "479-586-1843",
     "website": "https://www.facebook.com/profile.php%3Fid%3D100084993673824%26mibextid%3DLQQJ4d",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
@@ -11994,7 +11994,7 @@
     "state_code": "AR",
     "phone": "479-802-2369",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 27,
     "recommended": true
   },
@@ -12007,7 +12007,7 @@
     "state_code": "AR",
     "phone": "479-877-0495",
     "website": "http://sbautoservices.net/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 7,
     "recommended": true
   },
@@ -12020,7 +12020,7 @@
     "state_code": "AR",
     "phone": "479-925-4314",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 3,
     "recommended": true
   },
@@ -12033,7 +12033,7 @@
     "state_code": "AR",
     "phone": "479-636-0707",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -12046,7 +12046,7 @@
     "state_code": "AR",
     "phone": "479-621-5588",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -12624,7 +12624,7 @@
   },
   {
     "name": "Northwest Arkansas U Pull It Auto Parts, Inc.",
-    "care_type": "Salvage yard",
+    "care_type": "Auto repair shop",
     "address": "600 W Price Ln, Rogers, AR 72758",
     "city": "Rogers",
     "state": "Arkansas",
@@ -12657,7 +12657,7 @@
     "state_code": "AR",
     "phone": "479-340-1155",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 46,
     "recommended": true
   },
@@ -12670,7 +12670,7 @@
     "state_code": "AR",
     "phone": "479-246-7075",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 58,
     "recommended": true
   },
@@ -12683,7 +12683,7 @@
     "state_code": "AR",
     "phone": "479-899-6289",
     "website": "https://hernandezbodyshopar.com/",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 26,
     "recommended": true
   },
@@ -12696,7 +12696,7 @@
     "state_code": "AR",
     "phone": "479-521-7281",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 4,
     "recommended": true
   },
@@ -12774,7 +12774,7 @@
     "state_code": "AR",
     "phone": "479-317-4501",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 72,
     "recommended": true
   },
@@ -12787,7 +12787,7 @@
     "state_code": "AR",
     "phone": "479-567-5180",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 5,
     "recommended": true
   },
@@ -12800,7 +12800,7 @@
     "state_code": "AR",
     "phone": "479-498-2555",
     "website": "https://www.cogswellmotors.com/service/schedule-service",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 4,
     "recommended": true
   },
@@ -12813,7 +12813,7 @@
     "state_code": "AR",
     "phone": "479-567-1527",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 3,
     "recommended": true
   },
@@ -12826,7 +12826,7 @@
     "state_code": "AR",
     "phone": "479-284-3883",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 5,
     "recommended": true
   },
@@ -12839,7 +12839,7 @@
     "state_code": "AR",
     "phone": "479-968-4969",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 29,
     "recommended": true
   },
@@ -12852,7 +12852,7 @@
     "state_code": "AR",
     "phone": "479-968-4566",
     "website": "http://www.orrhyundai.net/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 3,
     "recommended": true
   },
@@ -13424,7 +13424,7 @@
     "state_code": "AR",
     "phone": "479-967-3667",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 10,
     "recommended": true
   },
@@ -13489,7 +13489,7 @@
     "state_code": "AR",
     "phone": "501-305-3612",
     "website": "https://www.proautoservicesearcy.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 5,
     "recommended": true
   },
@@ -13502,7 +13502,7 @@
     "state_code": "AR",
     "phone": "501-388-9859",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 10,
     "recommended": true
   },
@@ -13515,7 +13515,7 @@
     "state_code": "AR",
     "phone": "nan",
     "website": "https://www.orrtoyotaofsearcy.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -13528,7 +13528,7 @@
     "state_code": "AR",
     "phone": "501-279-0669",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 3,
     "recommended": true
   },
@@ -13541,7 +13541,7 @@
     "state_code": "AR",
     "phone": "501-207-1588",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 11,
     "recommended": true
   },
@@ -13554,7 +13554,7 @@
     "state_code": "AR",
     "phone": "501-368-0440",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 9,
     "recommended": true
   },
@@ -14061,7 +14061,7 @@
     "state_code": "AR",
     "phone": "501-236-5645",
     "website": "https://www.roadmasterservice.com/",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 265,
     "recommended": true
   },
@@ -14074,7 +14074,7 @@
     "state_code": "AR",
     "phone": "501-279-9909",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 4,
     "recommended": true
   },
@@ -14152,7 +14152,7 @@
     "state_code": "AR",
     "phone": "501-268-4880",
     "website": null,
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 4,
     "recommended": true
   },
@@ -14191,7 +14191,7 @@
     "state_code": "AR",
     "phone": "501-864-7001",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 15,
     "recommended": true
   },
@@ -14204,7 +14204,7 @@
     "state_code": "AR",
     "phone": "nan",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
@@ -14217,7 +14217,7 @@
     "state_code": "AR",
     "phone": "501-819-6143",
     "website": "https://argearandaxle.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 26,
     "recommended": true
   },
@@ -14386,7 +14386,7 @@
     "state_code": "AR",
     "phone": "501-834-6100",
     "website": null,
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 1,
     "recommended": true
   },
@@ -14399,7 +14399,7 @@
     "state_code": "AR",
     "phone": "501-833-0257",
     "website": "https://www.walmart.com/store/7-sherwood-ar/auto-care-center/%3Fveh%3Dseo_loc",
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 139,
     "recommended": true
   },
@@ -14412,7 +14412,7 @@
     "state_code": "AR",
     "phone": "479-549-8670",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 3,
     "recommended": true
   },
@@ -14425,7 +14425,7 @@
     "state_code": "AR",
     "phone": "479-427-9011",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 9,
     "recommended": true
   },
@@ -14438,7 +14438,7 @@
     "state_code": "AR",
     "phone": "866-559-5060",
     "website": "https://www.siloamchevygmc.com/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgbp%2Bservice",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 3,
     "recommended": true
   },
@@ -14451,7 +14451,7 @@
     "state_code": "AR",
     "phone": "479-301-1320",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 7,
     "recommended": true
   },
@@ -14750,7 +14750,7 @@
     "state_code": "AR",
     "phone": "479-373-1144",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 21,
     "recommended": true
   },
@@ -14763,7 +14763,7 @@
     "state_code": "AR",
     "phone": "479-524-2006",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 21,
     "recommended": true
   },
@@ -14815,7 +14815,7 @@
     "state_code": "AR",
     "phone": "479-599-9027",
     "website": null,
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 2,
     "recommended": true
   },
@@ -14828,7 +14828,7 @@
     "state_code": "AR",
     "phone": "479-640-8813",
     "website": null,
-    "rating": 1.0,
+    "rating": 1,
     "reviews": 1,
     "recommended": false
   },
@@ -14841,7 +14841,7 @@
     "state_code": "AR",
     "phone": "479-263-9926",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 13,
     "recommended": true
   },
@@ -14854,7 +14854,7 @@
     "state_code": "AR",
     "phone": "479-856-8191",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 28,
     "recommended": true
   },
@@ -14867,7 +14867,7 @@
     "state_code": "AR",
     "phone": "479-347-1866",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 12,
     "recommended": true
   },
@@ -14880,7 +14880,7 @@
     "state_code": "AR",
     "phone": "479-866-2876",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 6,
     "recommended": true
   },
@@ -14893,7 +14893,7 @@
     "state_code": "AR",
     "phone": "479-888-3737",
     "website": "https://www.google.com/localservices/profile?g2lbs=AOHF13ksWRSP7qzUbLDbARoE0pvjZw-IbcgNoR_Go0S1-4UhnZjCqVoWr_JFGWqv6hX-fUf5HU9y1ubvPJEBoPRcim7yyPgBX4ltLE0yd_4uvuoYCfRn6yXDZKWQ1igpaMjC8XCcnhFN",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 6,
     "recommended": true
   },
@@ -14906,7 +14906,7 @@
     "state_code": "AR",
     "phone": "479-445-4440",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
@@ -14919,7 +14919,7 @@
     "state_code": "AR",
     "phone": "479-717-2500",
     "website": "http://www.412routecollisions.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 141,
     "recommended": true
   },
@@ -14932,7 +14932,7 @@
     "state_code": "AR",
     "phone": "nan",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -14945,7 +14945,7 @@
     "state_code": "AR",
     "phone": "479-313-1950",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 17,
     "recommended": true
   },
@@ -14958,7 +14958,7 @@
     "state_code": "AR",
     "phone": "479-715-3127",
     "website": "https://lomyu.me/finishing-touch-auto-body-344928-us",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 16,
     "recommended": true
   },
@@ -14971,7 +14971,7 @@
     "state_code": "AR",
     "phone": "479-684-6939",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 26,
     "recommended": true
   },
@@ -14984,7 +14984,7 @@
     "state_code": "AR",
     "phone": "479-756-8100",
     "website": "https://www.protireandautomotivecenter.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 20,
     "recommended": true
   },
@@ -14997,7 +14997,7 @@
     "state_code": "AR",
     "phone": "nan",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -15010,7 +15010,7 @@
     "state_code": "AR",
     "phone": "nan",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 6,
     "recommended": true
   },
@@ -15673,7 +15673,7 @@
     "state_code": "AR",
     "phone": "479-365-7373",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 47,
     "recommended": true
   },
@@ -15686,7 +15686,7 @@
     "state_code": "AR",
     "phone": "479-751-3141",
     "website": "http://mecanica-automotriz.square.site/",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 4,
     "recommended": true
   },
@@ -15699,7 +15699,7 @@
     "state_code": "AR",
     "phone": "479-313-1208",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 13,
     "recommended": true
   },
@@ -15712,7 +15712,7 @@
     "state_code": "AR",
     "phone": "479-295-8159",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 17,
     "recommended": true
   },
@@ -15725,7 +15725,7 @@
     "state_code": "AR",
     "phone": "479-419-5566",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 1,
     "recommended": true
   },
@@ -15738,7 +15738,7 @@
     "state_code": "AR",
     "phone": "479-751-6580",
     "website": "https://tanksleysautobodyshop.com/",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 90,
     "recommended": true
   },
@@ -15764,7 +15764,7 @@
     "state_code": "AR",
     "phone": "479-595-8821",
     "website": null,
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 2,
     "recommended": true
   },
@@ -16076,7 +16076,7 @@
     "state_code": "AR",
     "phone": "870-773-9530",
     "website": "https://bustinnutz.com/",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 92,
     "recommended": true
   },
@@ -16102,7 +16102,7 @@
     "state_code": "AR",
     "phone": "903-990-3939",
     "website": "https://djsautomotive.webador.com/",
-    "rating": 1.0,
+    "rating": 1,
     "reviews": 1,
     "recommended": false
   },
@@ -16167,7 +16167,7 @@
     "state_code": "AR",
     "phone": "nan",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -16180,7 +16180,7 @@
     "state_code": "AR",
     "phone": "479-806-0775",
     "website": "http://www.rivervalleyroadservice.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 13,
     "recommended": true
   },
@@ -16193,7 +16193,7 @@
     "state_code": "AR",
     "phone": "479-279-0108",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 15,
     "recommended": true
   },
@@ -16206,7 +16206,7 @@
     "state_code": "AR",
     "phone": "479-262-4578",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 25,
     "recommended": true
   },
@@ -16219,7 +16219,7 @@
     "state_code": "AR",
     "phone": "479-471-0535",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -16557,7 +16557,7 @@
     "state_code": "AR",
     "phone": "479-474-5534",
     "website": "http://www.turnertransmission.com/",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 72,
     "recommended": true
   },
@@ -16570,7 +16570,7 @@
     "state_code": "AR",
     "phone": "479-459-9796",
     "website": "https://lomyu.me/tuned-by-jp-615474-us",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 104,
     "recommended": true
   },
@@ -16583,7 +16583,7 @@
     "state_code": "AR",
     "phone": "479-410-3824",
     "website": "https://www.walmart.com/store/16-van-buren-ar/auto-care-center/%3Fveh%3Dseo_loc",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 123,
     "recommended": true
   },
@@ -16609,7 +16609,7 @@
     "state_code": "AR",
     "phone": "479-474-8899",
     "website": null,
-    "rating": 1.0,
+    "rating": 1,
     "reviews": 1,
     "recommended": false
   },
@@ -16648,7 +16648,7 @@
     "state_code": "AR",
     "phone": "501-422-2574",
     "website": "http://www.fiegelsfixit.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D9823384751932207492",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 50,
     "recommended": true
   },
@@ -16661,7 +16661,7 @@
     "state_code": "AR",
     "phone": "508-933-2587",
     "website": "https://www.facebook.com/profile.php%3Fid%3D61565975578260",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 37,
     "recommended": true
   },
@@ -16674,7 +16674,7 @@
     "state_code": "AR",
     "phone": "901-503-3777",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 15,
     "recommended": true
   },
@@ -16687,7 +16687,7 @@
     "state_code": "AR",
     "phone": "870-397-7433",
     "website": "https://www.wefixyourride.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -16700,7 +16700,7 @@
     "state_code": "AR",
     "phone": "901-631-3808",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
@@ -16713,7 +16713,7 @@
     "state_code": "AR",
     "phone": "817-210-8750",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 3,
     "recommended": true
   },
@@ -16726,7 +16726,7 @@
     "state_code": "AR",
     "phone": "901-694-9080",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -16739,7 +16739,7 @@
     "state_code": "AR",
     "phone": "870-394-4392",
     "website": "https://www.facebook.com/share/15qbkxF32B/%3Fmibextid%3DwwXIfr",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 20,
     "recommended": true
   },
@@ -16752,7 +16752,7 @@
     "state_code": "AR",
     "phone": "870-735-9800",
     "website": "https://www.westmemphisford.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 8,
     "recommended": true
   },
@@ -16765,7 +16765,7 @@
     "state_code": "AR",
     "phone": "870-394-9537",
     "website": "https://www.tdcautomotive.org/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -16778,7 +16778,7 @@
     "state_code": "AR",
     "phone": "870-902-9291",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
@@ -16992,7 +16992,7 @@
   },
   {
     "name": "Car Reaper, LLC",
-    "care_type": "Salvage yard",
+    "care_type": "Auto repair shop",
     "address": "104 W Tyler Ave, West Memphis, AR 72301",
     "city": "West Memphis",
     "state": "Arkansas",

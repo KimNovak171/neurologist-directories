@@ -1,26 +1,56 @@
 import type { Facility } from "@/components/FacilityCard";
+import fs from "fs";
+import path from "path";
 
 // Build-time empty datasets.
 // This Next.js app is allowed to build with an empty `data/` folder
 // (no JSON files).
+function loadCanadaProvinceFacilities(fileName: string): any[] {
+  const filePath = path.join(process.cwd(), "data", fileName);
+  if (!fs.existsSync(filePath)) return [];
+  try {
+    const parsed: unknown = JSON.parse(fs.readFileSync(filePath, "utf-8"));
+    // Canada province files are stored as a top-level facilities array.
+    if (Array.isArray(parsed)) return parsed as any[];
+    if (
+      parsed &&
+      typeof parsed === "object" &&
+      Array.isArray((parsed as any).facilities)
+    ) {
+      return (parsed as any).facilities as any[];
+    }
+    return [];
+  } catch {
+    return [];
+  }
+}
+
 const britishColumbiaData = {
   province: "British Columbia",
-  facilities: [] as any[],
+  facilities: loadCanadaProvinceFacilities(
+    "british-columbia_facilities.json",
+  ),
 } as any;
-const albertaData = { province: "Alberta", facilities: [] as any[] } as any;
+const albertaData = {
+  province: "Alberta",
+  facilities: loadCanadaProvinceFacilities("alberta_facilities.json"),
+} as any;
 const saskatchewanData = {
   province: "Saskatchewan",
   facilities: [] as any[],
 } as any;
 const manitobaData = { province: "Manitoba", facilities: [] as any[] } as any;
-const ontarioData = { province: "Ontario", facilities: [] as any[] } as any;
+const ontarioData = {
+  province: "Ontario",
+  facilities: loadCanadaProvinceFacilities("ontario_facilities.json"),
+} as any;
 const novaScotiaData = {
   province: "Nova Scotia",
-  facilities: [] as any[],
+  facilities: loadCanadaProvinceFacilities("nova-scotia_facilities.json"),
 } as any;
 const newBrunswickData = {
   province: "New Brunswick",
-  facilities: [] as any[],
+  facilities: loadCanadaProvinceFacilities("new-brunswick_facilities.json"),
 } as any;
 const princeEdwardIslandData = {
   province: "Prince Edward Island",
@@ -34,7 +64,9 @@ const yukonData = { province: "Yukon", facilities: [] as any[] } as any;
 const nunavutData = { province: "Nunavut", facilities: [] as any[] } as any;
 const newfoundlandAndLabradorData = {
   province: "Newfoundland and Labrador",
-  facilities: [] as any[],
+  facilities: loadCanadaProvinceFacilities(
+    "newfoundland-and-labrador_facilities.json",
+  ),
 } as any;
 // Quebec data is treated as a raw array in this template.
 const quebecData = [] as any[];
@@ -147,12 +179,10 @@ function transformCanadaFacilities(
     const addressLine1 = addressParts[0] ?? f.address ?? "";
     const addressLine2 =
       addressParts.length > 1 ? addressParts.slice(1).join(", ") : undefined;
-    const fullAddress = (f.address ?? "").trim();
+    // For Canada we rely on `place_id` (no address-string fallback).
     const mapsUrl = f.place_id
       ? `https://search.google.com/local/reviews?placeid=${f.place_id}&q=*&authuser=0&hl=en&gl=CA`
-      : fullAddress
-        ? `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(fullAddress)}`
-        : undefined;
+      : undefined;
     return {
       id,
       name: f.name,

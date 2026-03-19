@@ -8,7 +8,7 @@
     "state_code": "AK",
     "phone": "907-440-1106",
     "website": "http://rodsautoandatv.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 15,
     "recommended": true
   },
@@ -21,7 +21,7 @@
     "state_code": "AK",
     "phone": "907-205-7189",
     "website": "https://www.morrisonsautoak.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 80,
     "recommended": true
   },
@@ -34,7 +34,7 @@
     "state_code": "AK",
     "phone": "907-344-4337",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 22,
     "recommended": true
   },
@@ -47,7 +47,7 @@
     "state_code": "AK",
     "phone": "nan",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -60,7 +60,7 @@
     "state_code": "AK",
     "phone": "907-345-1000",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 22,
     "recommended": true
   },
@@ -73,7 +73,7 @@
     "state_code": "AK",
     "phone": "907-344-4332",
     "website": "https://lomyu.me/classic-auto-rebuilding-inc-600008-us",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 25,
     "recommended": true
   },
@@ -86,7 +86,7 @@
     "state_code": "AK",
     "phone": "nan",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -885,7 +885,7 @@
   },
   {
     "name": "Swickard Anchorage Body Shop, Service and Auto Parts",
-    "care_type": "GMC dealer",
+    "care_type": "Auto repair shop",
     "address": "1300 E 5th Ave, Anchorage, AK 99501",
     "city": "Anchorage",
     "state": "Alaska",
@@ -1022,7 +1022,7 @@
     "state_code": "AK",
     "phone": "907-268-2861",
     "website": "https://www.meineke.com/locations/ak/anchorage-2932/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgbp_website",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 1067,
     "recommended": true
   },
@@ -1035,7 +1035,7 @@
     "state_code": "AK",
     "phone": "907-561-1994",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 143,
     "recommended": true
   },
@@ -1048,7 +1048,7 @@
     "state_code": "AK",
     "phone": "907-884-6961",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 20,
     "recommended": true
   },
@@ -1061,7 +1061,7 @@
     "state_code": "AK",
     "phone": "907-337-6837",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 48,
     "recommended": true
   },
@@ -1165,7 +1165,7 @@
     "state_code": "AK",
     "phone": "907-543-4445",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 3,
     "recommended": true
   },
@@ -1178,7 +1178,7 @@
     "state_code": "AK",
     "phone": "907-543-4241",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -1217,7 +1217,7 @@
     "state_code": "AK",
     "phone": "907-543-1211",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 1,
     "recommended": true
   },
@@ -1230,7 +1230,7 @@
     "state_code": "AK",
     "phone": "907-229-2368",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -1282,7 +1282,7 @@
     "state_code": "AK",
     "phone": "907-831-6671",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 6,
     "recommended": true
   },
@@ -1347,7 +1347,7 @@
     "state_code": "AK",
     "phone": "907-842-1610",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 4,
     "recommended": true
   },
@@ -1360,7 +1360,7 @@
     "state_code": "AK",
     "phone": "907-696-7827",
     "website": "https://lomyu.me/frontier-service-automotive-311297-us",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 30,
     "recommended": true
   },
@@ -1373,7 +1373,7 @@
     "state_code": "AK",
     "phone": "888-448-7903",
     "website": "https://wowequipmentalaska.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 31,
     "recommended": true
   },
@@ -1386,7 +1386,7 @@
     "state_code": "AK",
     "phone": "714-851-7769",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -1399,7 +1399,7 @@
     "state_code": "AK",
     "phone": "907-444-8404",
     "website": "https://www.facebook.com/profile.php%3Fid%3D100089573800715",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 15,
     "recommended": true
   },
@@ -1542,7 +1542,7 @@
     "state_code": "AK",
     "phone": "907-726-7647",
     "website": "http://mikesautorepairak.com/",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 4,
     "recommended": true
   },
@@ -1581,7 +1581,7 @@
     "state_code": "AK",
     "phone": "907-474-1075",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 10,
     "recommended": true
   },
@@ -1594,7 +1594,7 @@
     "state_code": "AK",
     "phone": "907-457-5225",
     "website": "http://www.jacksautoservice.org/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 34,
     "recommended": true
   },
@@ -1607,7 +1607,7 @@
     "state_code": "AK",
     "phone": "907-388-9313",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -1620,7 +1620,7 @@
     "state_code": "AK",
     "phone": "907-479-8506",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -2114,7 +2114,7 @@
     "state_code": "AK",
     "phone": "907-457-8087",
     "website": "http://collegecollisioncenter.com/",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 39,
     "recommended": true
   },
@@ -2179,7 +2179,7 @@
     "state_code": "AK",
     "phone": "907-766-2900",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 16,
     "recommended": true
   },
@@ -2231,7 +2231,7 @@
     "state_code": "AK",
     "phone": "907-435-4747",
     "website": "https://www.conveniencetireandlube.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 19,
     "recommended": true
   },
@@ -2244,7 +2244,7 @@
     "state_code": "AK",
     "phone": "907-226-3338",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 15,
     "recommended": true
   },
@@ -2348,7 +2348,7 @@
     "state_code": "AK",
     "phone": "208-709-4171",
     "website": "https://alaskanautocare.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 43,
     "recommended": true
   },
@@ -2361,7 +2361,7 @@
     "state_code": "AK",
     "phone": "907-209-5910",
     "website": "https://www.northstarautocare.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 19,
     "recommended": true
   },
@@ -2374,7 +2374,7 @@
     "state_code": "AK",
     "phone": "907-419-0971",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 4,
     "recommended": true
   },
@@ -2387,7 +2387,7 @@
     "state_code": "AK",
     "phone": "907-586-2628",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -2543,7 +2543,7 @@
     "state_code": "AK",
     "phone": "907-790-9332",
     "website": "https://juneauautorepair.com/",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 68,
     "recommended": true
   },
@@ -2556,7 +2556,7 @@
     "state_code": "AK",
     "phone": "907-957-2197",
     "website": "https://www.facebook.com/Egan-Express-Lube-108562964132673/",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 10,
     "recommended": true
   },
@@ -2569,7 +2569,7 @@
     "state_code": "AK",
     "phone": "907-463-7775",
     "website": "https://onestopautoshopak.com/",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 26,
     "recommended": true
   },
@@ -2608,7 +2608,7 @@
     "state_code": "AK",
     "phone": "907-790-1833",
     "website": null,
-    "rating": 2.0,
+    "rating": 2,
     "reviews": 2,
     "recommended": false
   },
@@ -2673,7 +2673,7 @@
     "state_code": "AK",
     "phone": "907-398-1726",
     "website": "http://www.pitstopgarageak.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 38,
     "recommended": true
   },
@@ -2686,7 +2686,7 @@
     "state_code": "AK",
     "phone": "866-387-8047",
     "website": "https://www.quicklane.com/en-us/oil-change-tire-auto-repair-store/ak/kenai/99611/quick-lane-tire-and-auto-center/QLB49/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -2842,7 +2842,7 @@
     "state_code": "AK",
     "phone": "907-225-9344",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 9,
     "recommended": true
   },
@@ -2946,7 +2946,7 @@
     "state_code": "AK",
     "phone": "907-512-5565",
     "website": "https://www.facebook.com/share/1AHfxFktsN/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 30,
     "recommended": true
   },
@@ -2959,7 +2959,7 @@
     "state_code": "AK",
     "phone": "907-512-0404",
     "website": "https://usacommetix.top/details/bravo-automotive-repair-and-tire-llc-ChIJH5w",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 6,
     "recommended": true
   },
@@ -3050,7 +3050,7 @@
     "state_code": "AK",
     "phone": "907-268-6472",
     "website": "http://www.belmonttireandauto.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 5,
     "recommended": true
   },
@@ -3141,7 +3141,7 @@
     "state_code": "AK",
     "phone": "907-707-4100",
     "website": "https://creekautomotive.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 34,
     "recommended": true
   },
@@ -3154,7 +3154,7 @@
     "state_code": "AK",
     "phone": "907-414-3163",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 14,
     "recommended": true
   },
@@ -3167,7 +3167,7 @@
     "state_code": "AK",
     "phone": "907-982-5673",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 3,
     "recommended": true
   },
@@ -3180,7 +3180,7 @@
     "state_code": "AK",
     "phone": "907-745-0628",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 9,
     "recommended": true
   },
@@ -3193,7 +3193,7 @@
     "state_code": "AK",
     "phone": "907-707-9207",
     "website": "https://www.alaskammr.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 139,
     "recommended": true
   },
@@ -3206,7 +3206,7 @@
     "state_code": "AK",
     "phone": "907-746-0041",
     "website": "http://www.matsuauto.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 9,
     "recommended": true
   },
@@ -3349,7 +3349,7 @@
     "state_code": "AK",
     "phone": "907-745-3050",
     "website": "https://www.jenskiauto.com/",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 90,
     "recommended": true
   },
@@ -3414,7 +3414,7 @@
     "state_code": "AK",
     "phone": "907-491-0288",
     "website": "http://outtatownservices.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 23,
     "recommended": true
   },
@@ -3427,7 +3427,7 @@
     "state_code": "AK",
     "phone": "907-224-5666",
     "website": "https://usametrox.top/details/seward-body-paint-ChIJw-e",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 4,
     "recommended": true
   },
@@ -3492,7 +3492,7 @@
     "state_code": "AK",
     "phone": "907-260-3087",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 85,
     "recommended": true
   },
@@ -3505,7 +3505,7 @@
     "state_code": "AK",
     "phone": "907-202-2081",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 12,
     "recommended": true
   },
@@ -3518,7 +3518,7 @@
     "state_code": "AK",
     "phone": "907-394-6004",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 6,
     "recommended": true
   },
@@ -3531,7 +3531,7 @@
     "state_code": "AK",
     "phone": "907-244-0510",
     "website": "http://www.alaskaradiator.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 11,
     "recommended": true
   },
@@ -3752,7 +3752,7 @@
     "state_code": "AK",
     "phone": "907-262-4513",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 44,
     "recommended": true
   },
@@ -3804,7 +3804,7 @@
     "state_code": "AK",
     "phone": "907-262-4518",
     "website": null,
-    "rating": 2.0,
+    "rating": 2,
     "reviews": 2,
     "recommended": false
   },
@@ -3921,7 +3921,7 @@
     "state_code": "AK",
     "phone": "907-864-0608",
     "website": "https://www.hatchpeakmw.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 171,
     "recommended": true
   },
@@ -3934,7 +3934,7 @@
     "state_code": "AK",
     "phone": "907-308-1012",
     "website": "https://valleyfleetautorepairllc.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 12,
     "recommended": true
   },
@@ -3947,7 +3947,7 @@
     "state_code": "AK",
     "phone": "907-621-6444",
     "website": "https://app.shopmonkey.cloud/public/quote-request/6dd87a32-0e73-4dfd-a1f2-00927fbc050f%3FnoExternalScripts%3D1",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 3,
     "recommended": true
   },
@@ -3960,7 +3960,7 @@
     "state_code": "AK",
     "phone": "907-771-1197",
     "website": "https://www.gearheadsgarageak.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 12,
     "recommended": true
   },
@@ -3973,7 +3973,7 @@
     "state_code": "AK",
     "phone": "907-631-2047",
     "website": "https://www.s0ns0fthunder.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 29,
     "recommended": true
   },
@@ -3986,7 +3986,7 @@
     "state_code": "AK",
     "phone": "907-312-2871",
     "website": "https://akprecisiondiesel.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 76,
     "recommended": true
   },
@@ -3999,7 +3999,7 @@
     "state_code": "AK",
     "phone": "907-414-5711",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -4012,7 +4012,7 @@
     "state_code": "AK",
     "phone": "907-315-1655",
     "website": "http://www.weilergarage.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -4025,7 +4025,7 @@
     "state_code": "AK",
     "phone": "907-599-0115",
     "website": "http://907tireshop.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 3,
     "recommended": true
   },
@@ -4038,7 +4038,7 @@
     "state_code": "AK",
     "phone": "907-631-0577",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
@@ -4278,7 +4278,7 @@
   },
   {
     "name": "Distinctive Ride Wasilla",
-    "care_type": "Car stereo store",
+    "care_type": "Auto repair shop",
     "address": "3601 E Ruth Dr, Wasilla, AK 99654",
     "city": "Wasilla",
     "state": "Alaska",
@@ -4571,7 +4571,7 @@
     "state_code": "AK",
     "phone": "907-892-6506",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 8,
     "recommended": true
   },
@@ -4623,7 +4623,7 @@
     "state_code": "AK",
     "phone": "nan",
     "website": null,
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 4,
     "recommended": true
   },
@@ -4636,7 +4636,7 @@
     "state_code": "AK",
     "phone": "907-795-0805",
     "website": "https://www.eztauto.com/contact-us",
-    "rating": 1.0,
+    "rating": 1,
     "reviews": 1,
     "recommended": false
   },

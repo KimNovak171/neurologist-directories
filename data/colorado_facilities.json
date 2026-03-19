@@ -8,7 +8,7 @@
     "state_code": "CO",
     "phone": "303-432-3105",
     "website": "http://proimageauto.net/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 30,
     "recommended": true
   },
@@ -21,7 +21,7 @@
     "state_code": "CO",
     "phone": "720-645-6713",
     "website": "http://carfix.services/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 53,
     "recommended": true
   },
@@ -34,7 +34,7 @@
     "state_code": "CO",
     "phone": "303-421-8888",
     "website": "http://snmautodiesel.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 37,
     "recommended": true
   },
@@ -47,7 +47,7 @@
     "state_code": "CO",
     "phone": "720-351-7807",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 8,
     "recommended": true
   },
@@ -60,7 +60,7 @@
     "state_code": "CO",
     "phone": "720-908-8927",
     "website": "https://www.jandmmotors.net/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgbp",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 10,
     "recommended": true
   },
@@ -73,7 +73,7 @@
     "state_code": "CO",
     "phone": "303-246-9639",
     "website": "http://www.323automotive.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 74,
     "recommended": true
   },
@@ -86,7 +86,7 @@
     "state_code": "CO",
     "phone": "720-745-1010",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
@@ -99,7 +99,7 @@
     "state_code": "CO",
     "phone": "303-831-7777",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 12,
     "recommended": true
   },
@@ -112,7 +112,7 @@
     "state_code": "CO",
     "phone": "303-502-0004",
     "website": "http://www.arvadamechanicalandenginerepair.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
@@ -723,7 +723,7 @@
     "state_code": "CO",
     "phone": "nan",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -736,7 +736,7 @@
     "state_code": "CO",
     "phone": "720-592-4306",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -749,7 +749,7 @@
     "state_code": "CO",
     "phone": "303-367-5805",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 23,
     "recommended": true
   },
@@ -762,7 +762,7 @@
     "state_code": "CO",
     "phone": "303-360-8383",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 68,
     "recommended": true
   },
@@ -775,7 +775,7 @@
     "state_code": "CO",
     "phone": "303-835-9340",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -788,7 +788,7 @@
     "state_code": "CO",
     "phone": "303-343-8502",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 9,
     "recommended": true
   },
@@ -801,7 +801,7 @@
     "state_code": "CO",
     "phone": "720-857-8475",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 23,
     "recommended": true
   },
@@ -814,7 +814,7 @@
     "state_code": "CO",
     "phone": "720-725-9237",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -827,7 +827,7 @@
     "state_code": "CO",
     "phone": "720-495-1178",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 7,
     "recommended": true
   },
@@ -840,7 +840,7 @@
     "state_code": "CO",
     "phone": "720-235-9449",
     "website": "https://5280-auto.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 47,
     "recommended": true
   },
@@ -853,7 +853,7 @@
     "state_code": "CO",
     "phone": "720-691-0812",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 6,
     "recommended": true
   },
@@ -866,7 +866,7 @@
     "state_code": "CO",
     "phone": "720-620-3163",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 4,
     "recommended": true
   },
@@ -879,7 +879,7 @@
     "state_code": "CO",
     "phone": "303-800-1291",
     "website": "https://adassolutionsusa.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 6,
     "recommended": true
   },
@@ -892,7 +892,7 @@
     "state_code": "CO",
     "phone": "303-363-8791",
     "website": "http://www.automotivecarecolorado.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 4,
     "recommended": true
   },
@@ -2049,7 +2049,7 @@
     "state_code": "CO",
     "phone": "303-364-7100",
     "website": "https://crashchampions.com/locations/crash-champions-aurora",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 208,
     "recommended": true
   },
@@ -2062,7 +2062,7 @@
     "state_code": "CO",
     "phone": "303-341-4360",
     "website": "https://www.goodyearautoservice.com/",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 358,
     "recommended": true
   },
@@ -2218,7 +2218,7 @@
     "state_code": "CO",
     "phone": "303-443-7714",
     "website": "http://www.charleysgarage.us/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 75,
     "recommended": true
   },
@@ -2231,7 +2231,7 @@
     "state_code": "CO",
     "phone": "303-443-3011",
     "website": "http://www.coyotemotors.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 107,
     "recommended": true
   },
@@ -2244,7 +2244,7 @@
     "state_code": "CO",
     "phone": "303-449-9843",
     "website": "https://slipstreamautocare.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 164,
     "recommended": true
   },
@@ -2257,7 +2257,7 @@
     "state_code": "CO",
     "phone": "720-328-5541",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 12,
     "recommended": true
   },
@@ -2270,7 +2270,7 @@
     "state_code": "CO",
     "phone": "303-443-4872",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 27,
     "recommended": true
   },
@@ -2283,7 +2283,7 @@
     "state_code": "CO",
     "phone": "336-587-2250",
     "website": "https://form.jotform.com/242476676265165",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 119,
     "recommended": true
   },
@@ -2296,7 +2296,7 @@
     "state_code": "CO",
     "phone": "303-541-9796",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 13,
     "recommended": true
   },
@@ -2309,7 +2309,7 @@
     "state_code": "CO",
     "phone": "720-260-4470",
     "website": "https://www.brakesplus.com/stores/fboulder/co/0154/%3Futm_source%3Dyext%26utm_medium%3Dorganic%26utm_campaign%3Dgmb%26storenum%3D0154",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 911,
     "recommended": true
   },
@@ -2322,7 +2322,7 @@
     "state_code": "CO",
     "phone": "772-323-3742",
     "website": "http://wolfysgarage.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 22,
     "recommended": true
   },
@@ -2335,7 +2335,7 @@
     "state_code": "CO",
     "phone": "303-900-3263",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -2348,7 +2348,7 @@
     "state_code": "CO",
     "phone": "720-924-2993",
     "website": "https://onsitemechanicrepair.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 37,
     "recommended": true
   },
@@ -2361,7 +2361,7 @@
     "state_code": "CO",
     "phone": "303-442-2131",
     "website": "https://www.qualityrepairboulder.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 7,
     "recommended": true
   },
@@ -3063,7 +3063,7 @@
     "state_code": "CO",
     "phone": "720-417-6409",
     "website": "https://www.brightonautorepair.biz/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 4,
     "recommended": true
   },
@@ -3076,7 +3076,7 @@
     "state_code": "CO",
     "phone": "303-726-0178",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 5,
     "recommended": true
   },
@@ -3089,7 +3089,7 @@
     "state_code": "CO",
     "phone": "303-902-4273",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -3102,7 +3102,7 @@
     "state_code": "CO",
     "phone": "720-335-3601",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "recommended": true
   },
@@ -3609,7 +3609,7 @@
     "state_code": "CO",
     "phone": "303-659-6884",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 84,
     "recommended": true
   },
@@ -3622,7 +3622,7 @@
     "state_code": "CO",
     "phone": "303-654-1940",
     "website": "https://www.johnsonautoplaza.com/service/center.htm",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 38,
     "recommended": true
   },
@@ -3687,7 +3687,7 @@
     "state_code": "CO",
     "phone": "303-835-9731",
     "website": "https://www.brightonfordco.com/service",
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 56,
     "recommended": true
   },
@@ -3739,7 +3739,7 @@
     "state_code": "CO",
     "phone": "720-263-1188",
     "website": "https://www.facebook.com/share/19cgrAD7oe/%3Fmibextid%3DwwXIfr",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 13,
     "recommended": true
   },
@@ -3752,7 +3752,7 @@
     "state_code": "CO",
     "phone": "303-469-3157",
     "website": "https://theprecisionautosalon.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 6,
     "recommended": true
   },
@@ -3765,7 +3765,7 @@
     "state_code": "CO",
     "phone": "720-226-6538",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -3778,7 +3778,7 @@
     "state_code": "CO",
     "phone": "303-736-2343",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 6,
     "recommended": true
   },
@@ -3791,7 +3791,7 @@
     "state_code": "CO",
     "phone": "nan",
     "website": "http://www.dentmotion.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 119,
     "recommended": true
   },
@@ -4298,7 +4298,7 @@
     "state_code": "CO",
     "phone": "720-548-1068",
     "website": "https://www.audiflatirons.com/en/service/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dyext",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 44,
     "recommended": true
   },
@@ -4363,7 +4363,7 @@
     "state_code": "CO",
     "phone": "303-469-1801",
     "website": "https://www.sthlincoln.com/",
-    "rating": 1.0,
+    "rating": 1,
     "reviews": 2,
     "recommended": false
   },
@@ -4428,7 +4428,7 @@
     "state_code": "CO",
     "phone": "719-458-9737",
     "website": "http://www.dndmobileauto.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 62,
     "recommended": true
   },
@@ -4441,7 +4441,7 @@
     "state_code": "CO",
     "phone": "719-285-8028",
     "website": "https://business.google.com/v/jts-garage/010061797620749016682/8ba2/_?caid=21071359587",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 28,
     "recommended": true
   },
@@ -4727,7 +4727,7 @@
     "state_code": "CO",
     "phone": "719-275-4300",
     "website": "http://zimmermans-shop.jany.io/",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 60,
     "recommended": true
   },
@@ -4740,7 +4740,7 @@
     "state_code": "CO",
     "phone": "866-712-3219",
     "website": "http://www.lindnerauto.com/ContactUsForm",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 26,
     "recommended": true
   },
@@ -4766,7 +4766,7 @@
     "state_code": "CO",
     "phone": "720-903-2375",
     "website": "https://www.eliteautoworks.co/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 211,
     "recommended": true
   },
@@ -4779,7 +4779,7 @@
     "state_code": "CO",
     "phone": "720-979-8767",
     "website": "https://www.snodgrassautorepair.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 151,
     "recommended": true
   },
@@ -4792,7 +4792,7 @@
     "state_code": "CO",
     "phone": "303-284-6429",
     "website": "https://solarautorepair.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 558,
     "recommended": true
   },
@@ -4805,7 +4805,7 @@
     "state_code": "CO",
     "phone": "720-598-5077",
     "website": "https://legacyautoclinic.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 14,
     "recommended": true
   },
@@ -4818,7 +4818,7 @@
     "state_code": "CO",
     "phone": "nan",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -4831,7 +4831,7 @@
     "state_code": "CO",
     "phone": "720-653-9922",
     "website": "https://acostafleetadvantage.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 26,
     "recommended": true
   },
@@ -4844,7 +4844,7 @@
     "state_code": "CO",
     "phone": "720-733-7010",
     "website": "https://www.quicklane.com/en-us/oil-change-tire-auto-repair-store/co/castle-rock/80104/quick-lane-at-castle-rock-ford/QLC93/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 3,
     "recommended": true
   },
@@ -4857,7 +4857,7 @@
     "state_code": "CO",
     "phone": "720-389-8569",
     "website": "http://www.tombstonediesel.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 95,
     "recommended": true
   },
@@ -5338,7 +5338,7 @@
     "state_code": "CO",
     "phone": "719-675-9028",
     "website": null,
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 2,
     "recommended": true
   },
@@ -5351,7 +5351,7 @@
     "state_code": "CO",
     "phone": "720-542-7234",
     "website": "https://eliteimportsautorepair.com/%3Futm_source%3Dgoogle%26utm_medium%3Dgmb",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 403,
     "recommended": true
   },
@@ -5364,7 +5364,7 @@
     "state_code": "CO",
     "phone": "720-580-1604",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -5377,7 +5377,7 @@
     "state_code": "CO",
     "phone": "303-290-9900",
     "website": "https://restorationsbyautotek.com/contact/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -5923,7 +5923,7 @@
     "state_code": "CO",
     "phone": "303-919-7769",
     "website": "https://www.autorepairdenvercolorado.com/",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 1021,
     "recommended": true
   },
@@ -5936,7 +5936,7 @@
     "state_code": "CO",
     "phone": "720-372-1917",
     "website": "https://www.autonationfordarapahoe.com/service-appointment/%3F%26utm_source%3Dlocal%26utm_medium%3Dorganic%26utm_campaign%3D*000012247*GMB",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 376,
     "recommended": true
   },
@@ -6105,7 +6105,7 @@
     "state_code": "CO",
     "phone": "719-653-9802",
     "website": "http://www.anhonestmechanicfountain.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 7,
     "recommended": true
   },
@@ -6118,7 +6118,7 @@
     "state_code": "CO",
     "phone": "719-445-0017",
     "website": "http://www.faithfulserviceauto.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 198,
     "recommended": true
   },
@@ -6131,7 +6131,7 @@
     "state_code": "CO",
     "phone": "719-522-1291",
     "website": "https://highmountainauto.co/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 189,
     "recommended": true
   },
@@ -6144,7 +6144,7 @@
     "state_code": "CO",
     "phone": "719-634-1606",
     "website": "https://www.qualitytechautomotive.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 109,
     "recommended": true
   },
@@ -6157,7 +6157,7 @@
     "state_code": "CO",
     "phone": "719-239-3245",
     "website": "http://www.pprautomotive.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 236,
     "recommended": true
   },
@@ -6170,7 +6170,7 @@
     "state_code": "CO",
     "phone": "719-738-8640",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -6183,7 +6183,7 @@
     "state_code": "CO",
     "phone": "719-465-6018",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 16,
     "recommended": true
   },
@@ -6196,7 +6196,7 @@
     "state_code": "CO",
     "phone": "719-473-6441",
     "website": "http://www.kleemannusa.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 79,
     "recommended": true
   },
@@ -6209,7 +6209,7 @@
     "state_code": "CO",
     "phone": "719-331-9921",
     "website": "http://coloradoqualitycollision.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 79,
     "recommended": true
   },
@@ -7665,7 +7665,7 @@
     "state_code": "CO",
     "phone": "720-361-2370",
     "website": "http://www.moremilesauto.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 31,
     "recommended": true
   },
@@ -7678,7 +7678,7 @@
     "state_code": "CO",
     "phone": "720-949-3745",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 11,
     "recommended": true
   },
@@ -7691,7 +7691,7 @@
     "state_code": "CO",
     "phone": "720-434-5750",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
@@ -7704,7 +7704,7 @@
     "state_code": "CO",
     "phone": "720-838-7968",
     "website": "https://www.sssmercedesrepairs.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 29,
     "recommended": true
   },
@@ -7717,7 +7717,7 @@
     "state_code": "CO",
     "phone": "720-447-3000",
     "website": "http://robstireservice.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 30,
     "recommended": true
   },
@@ -7730,7 +7730,7 @@
     "state_code": "CO",
     "phone": "720-588-8874",
     "website": "https://carmedicdenver.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 9,
     "recommended": true
   },
@@ -7743,7 +7743,7 @@
     "state_code": "CO",
     "phone": "303-994-4652",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -7756,7 +7756,7 @@
     "state_code": "CO",
     "phone": "719-415-6777",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 5,
     "recommended": true
   },
@@ -7769,7 +7769,7 @@
     "state_code": "CO",
     "phone": "nan",
     "website": "https://nissankeyreplacementcommercecity.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
@@ -7782,20 +7782,20 @@
     "state_code": "CO",
     "phone": "720-545-4985",
     "website": "https://www.versaautos.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
   {
     "name": "Good Karma Fabrication llc",
-    "care_type": "Welder",
+    "care_type": "Auto repair shop",
     "address": "C/O, 5331 E 65th Way, Commerce City, CO 80022",
     "city": "Commerce City",
     "state": "Colorado",
     "state_code": "CO",
     "phone": "720-331-9599",
     "website": "https://goodkarmafab.carrd.co/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 59,
     "recommended": true
   },
@@ -8354,7 +8354,7 @@
     "state_code": "CO",
     "phone": "303-623-7049",
     "website": "https://www.ironbuffalohd.com/%3Futm_campaign%3Dgmb",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 735,
     "recommended": true
   },
@@ -8367,7 +8367,7 @@
     "state_code": "CO",
     "phone": "303-289-3458",
     "website": "https://kaizencollision.com/locations/body-shop-commerce-city-co/",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 110,
     "recommended": true
   },
@@ -8380,7 +8380,7 @@
     "state_code": "CO",
     "phone": "303-291-0930",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 4,
     "recommended": true
   },
@@ -8393,7 +8393,7 @@
     "state_code": "CO",
     "phone": "720-651-3959",
     "website": "https://www.facebook.com/standard.tire.1",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 29,
     "recommended": true
   },
@@ -8419,7 +8419,7 @@
     "state_code": "CO",
     "phone": "720-815-9553",
     "website": null,
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 2,
     "recommended": true
   },
@@ -8432,7 +8432,7 @@
     "state_code": "CO",
     "phone": "303-288-5480",
     "website": null,
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 1,
     "recommended": true
   },
@@ -8458,7 +8458,7 @@
     "state_code": "CO",
     "phone": "720-577-0545",
     "website": null,
-    "rating": 1.0,
+    "rating": 1,
     "reviews": 1,
     "recommended": false
   },
@@ -8510,7 +8510,7 @@
     "state_code": "CO",
     "phone": "720-736-3829",
     "website": "https://aceautorepairco.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 86,
     "recommended": true
   },
@@ -8523,7 +8523,7 @@
     "state_code": "CO",
     "phone": "720-681-7474",
     "website": "https://coloradosbestmobilemechanic.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 30,
     "recommended": true
   },
@@ -8536,7 +8536,7 @@
     "state_code": "CO",
     "phone": "720-419-7043",
     "website": "https://rmautomotives.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 41,
     "recommended": true
   },
@@ -8549,7 +8549,7 @@
     "state_code": "CO",
     "phone": "218-216-4788",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -8562,7 +8562,7 @@
     "state_code": "CO",
     "phone": "303-321-1770",
     "website": "https://capitolhillconocoandauto.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 5,
     "recommended": true
   },
@@ -8575,7 +8575,7 @@
     "state_code": "CO",
     "phone": "303-915-8591",
     "website": "http://doctorduckauto.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 12,
     "recommended": true
   },
@@ -8588,7 +8588,7 @@
     "state_code": "CO",
     "phone": "720-581-4994",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 6,
     "recommended": true
   },
@@ -8601,7 +8601,7 @@
     "state_code": "CO",
     "phone": "303-569-6300",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 9,
     "recommended": true
   },
@@ -8614,7 +8614,7 @@
     "state_code": "CO",
     "phone": "303-573-1541",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 16,
     "recommended": true
   },
@@ -9771,7 +9771,7 @@
     "state_code": "CO",
     "phone": "303-451-8285",
     "website": "https://www.carstar.com/locations/co/northglenn-15162/",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 290,
     "recommended": true
   },
@@ -9784,7 +9784,7 @@
     "state_code": "CO",
     "phone": "303-574-0774",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 63,
     "recommended": true
   },
@@ -9797,7 +9797,7 @@
     "state_code": "CO",
     "phone": "303-645-4076",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 3,
     "recommended": true
   },
@@ -9901,7 +9901,7 @@
     "state_code": "CO",
     "phone": "nan",
     "website": null,
-    "rating": 1.0,
+    "rating": 1,
     "reviews": 1,
     "recommended": false
   },
@@ -9953,7 +9953,7 @@
     "state_code": "CO",
     "phone": "970-759-3934",
     "website": "http://mgautorepair.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 35,
     "recommended": true
   },
@@ -9966,7 +9966,7 @@
     "state_code": "CO",
     "phone": "970-317-2009",
     "website": "https://www.aceautofix.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 20,
     "recommended": true
   },
@@ -9979,7 +9979,7 @@
     "state_code": "CO",
     "phone": "970-548-0687",
     "website": "https://fleettiresdurango.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 3,
     "recommended": true
   },
@@ -10408,20 +10408,20 @@
     "state_code": "CO",
     "phone": "970-247-2553",
     "website": "https://www.napaonline.com/en/CO/Durango/store/27689%3Fcid%3Dpl_jobber_google_dac_27689_ao",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 139,
     "recommended": true
   },
   {
     "name": "Basin Coop",
-    "care_type": "Farm equipment supplier",
+    "care_type": "Auto repair shop",
     "address": "26103 US-160, Durango, CO 81301",
     "city": "Durango",
     "state": "Colorado",
     "state_code": "CO",
     "phone": "970-247-3066",
     "website": "http://www.basincoop.com/",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 46,
     "recommended": true
   },
@@ -10473,7 +10473,7 @@
     "state_code": "CO",
     "phone": "303-386-6272",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 32,
     "recommended": true
   },
@@ -10486,7 +10486,7 @@
     "state_code": "CO",
     "phone": "303-331-7733",
     "website": "http://autocare-plus.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 80,
     "recommended": true
   },
@@ -10499,7 +10499,7 @@
     "state_code": "CO",
     "phone": "303-761-7355",
     "website": "http://www.amwbmw.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 314,
     "recommended": true
   },
@@ -10512,7 +10512,7 @@
     "state_code": "CO",
     "phone": "720-425-8383",
     "website": "https://spaautoservice.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 225,
     "recommended": true
   },
@@ -10525,7 +10525,7 @@
     "state_code": "CO",
     "phone": "720-447-5419",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 23,
     "recommended": true
   },
@@ -10538,7 +10538,7 @@
     "state_code": "CO",
     "phone": "720-600-7737",
     "website": "http://theautofix.net/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 44,
     "recommended": true
   },
@@ -10551,7 +10551,7 @@
     "state_code": "CO",
     "phone": "303-794-6195",
     "website": "https://www.instagram.com/camacho.precision.automotive/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 8,
     "recommended": true
   },
@@ -10564,7 +10564,7 @@
     "state_code": "CO",
     "phone": "720-515-6734",
     "website": "http://motormedicineco.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D2985289992700499320",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 127,
     "recommended": true
   },
@@ -11136,7 +11136,7 @@
     "state_code": "CO",
     "phone": "720-644-8189",
     "website": "https://www.firestonecompleteautocare.com/colorado/englewood/8660-e-arapahoe-rd/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dlocalmaps%26cmp%3Doloc_google_localmaps_maps",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 326,
     "recommended": true
   },
@@ -11162,7 +11162,7 @@
     "state_code": "CO",
     "phone": "303-828-4343",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 20,
     "recommended": true
   },
@@ -11175,7 +11175,7 @@
     "state_code": "CO",
     "phone": "303-828-1108",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 4,
     "recommended": true
   },
@@ -11253,7 +11253,7 @@
     "state_code": "CO",
     "phone": "720-502-5244",
     "website": "https://www.lesschwab.com/stores/co/erie/2925-mountain-view-blvd%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb-homepage",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 197,
     "recommended": true
   },
@@ -11266,7 +11266,7 @@
     "state_code": "CO",
     "phone": "970-301-4390",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -11383,7 +11383,7 @@
     "state_code": "CO",
     "phone": "813-388-8818",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -11526,7 +11526,7 @@
     "state_code": "CO",
     "phone": "970-617-7395",
     "website": "https://www.wecareautorepairco.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 108,
     "recommended": true
   },
@@ -11539,7 +11539,7 @@
     "state_code": "CO",
     "phone": "970-377-1381",
     "website": "http://www.autorepairexpertsnoco.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 50,
     "recommended": true
   },
@@ -11552,7 +11552,7 @@
     "state_code": "CO",
     "phone": "970-472-2031",
     "website": "http://mac1tires.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 489,
     "recommended": true
   },
@@ -11565,7 +11565,7 @@
     "state_code": "CO",
     "phone": "970-484-9973",
     "website": "http://www.integralmotorsinc.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 78,
     "recommended": true
   },
@@ -11578,7 +11578,7 @@
     "state_code": "CO",
     "phone": "970-900-6735",
     "website": "https://www.total-automotive.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 53,
     "recommended": true
   },
@@ -11591,7 +11591,7 @@
     "state_code": "CO",
     "phone": "970-413-3462",
     "website": "https://csprfauto.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 25,
     "recommended": true
   },
@@ -11604,7 +11604,7 @@
     "state_code": "CO",
     "phone": "970-413-6769",
     "website": "https://triplesallautorepair.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -11617,7 +11617,7 @@
     "state_code": "CO",
     "phone": "970-484-2113",
     "website": "https://autoworxfc.com/home",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 23,
     "recommended": true
   },
@@ -11630,7 +11630,7 @@
     "state_code": "CO",
     "phone": "970-224-3428",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 21,
     "recommended": true
   },
@@ -12449,7 +12449,7 @@
     "state_code": "CO",
     "phone": "970-224-4671",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 16,
     "recommended": true
   },
@@ -12488,7 +12488,7 @@
     "state_code": "CO",
     "phone": "719-382-5055",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 22,
     "recommended": true
   },
@@ -12501,7 +12501,7 @@
     "state_code": "CO",
     "phone": "719-308-6679",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 5,
     "recommended": true
   },
@@ -12761,7 +12761,7 @@
     "state_code": "CO",
     "phone": "720-939-1464",
     "website": "https://3zero3automotive.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 59,
     "recommended": true
   },
@@ -12774,7 +12774,7 @@
     "state_code": "CO",
     "phone": "720-798-0032",
     "website": "https://www.facebook.com/nytroautomotive",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 51,
     "recommended": true
   },
@@ -12787,7 +12787,7 @@
     "state_code": "CO",
     "phone": "214-533-2512",
     "website": "https://autoshopactive.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 4,
     "recommended": true
   },
@@ -12800,7 +12800,7 @@
     "state_code": "CO",
     "phone": "303-562-1800",
     "website": "https://euroxperformance.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 20,
     "recommended": true
   },
@@ -12813,7 +12813,7 @@
     "state_code": "CO",
     "phone": "720-724-7551",
     "website": "https://www.kaizenautolab.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 9,
     "recommended": true
   },
@@ -12826,7 +12826,7 @@
     "state_code": "CO",
     "phone": "303-279-4408",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 4,
     "recommended": true
   },
@@ -12839,7 +12839,7 @@
     "state_code": "CO",
     "phone": "720-638-3232",
     "website": "https://www.genesisofgolden.com/genesis-service-center/utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb_website_click%26utm_id%3DGMBwebsite",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 4,
     "recommended": true
   },
@@ -12852,7 +12852,7 @@
     "state_code": "CO",
     "phone": "720-638-9380",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 38,
     "recommended": true
   },
@@ -13216,7 +13216,7 @@
     "state_code": "CO",
     "phone": "720-645-0200",
     "website": null,
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 1,
     "recommended": true
   },
@@ -13229,7 +13229,7 @@
     "state_code": "CO",
     "phone": "970-216-8535",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 32,
     "recommended": true
   },
@@ -13242,7 +13242,7 @@
     "state_code": "CO",
     "phone": "970-216-3634",
     "website": "https://www.facebook.com/profile.php%3Fid%3D100095276718780%26mibextid%3DZbWKwL",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 47,
     "recommended": true
   },
@@ -13255,7 +13255,7 @@
     "state_code": "CO",
     "phone": "720-821-4248",
     "website": "https://www.mobile-auto-doctors.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 16,
     "recommended": true
   },
@@ -13268,7 +13268,7 @@
     "state_code": "CO",
     "phone": "970-712-9959",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 29,
     "recommended": true
   },
@@ -13281,7 +13281,7 @@
     "state_code": "CO",
     "phone": "970-836-3323",
     "website": "http://www.peaktoplateau.co/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 25,
     "recommended": true
   },
@@ -14113,7 +14113,7 @@
     "state_code": "CO",
     "phone": "970-444-7498",
     "website": "https://tech34greeley.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 43,
     "recommended": true
   },
@@ -14126,7 +14126,7 @@
     "state_code": "CO",
     "phone": "970-356-7200",
     "website": "http://joesautocare1.oursite.co/%3F_gl%3D1*g878ly*_gcl_au*MTA0NTM2ODQxOS4xNzI3MjUxMDE0",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 35,
     "recommended": true
   },
@@ -14724,7 +14724,7 @@
     "state_code": "CO",
     "phone": "720-810-6676",
     "website": "https://ardentrepair.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 3,
     "recommended": true
   },
@@ -14737,7 +14737,7 @@
     "state_code": "CO",
     "phone": "720-299-5751",
     "website": "https://europeanmotorworks.net/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 4,
     "recommended": true
   },
@@ -14750,7 +14750,7 @@
     "state_code": "CO",
     "phone": "303-870-4010",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 4,
     "recommended": true
   },
@@ -14763,7 +14763,7 @@
     "state_code": "CO",
     "phone": "719-800-0406",
     "website": "https://www.brakesbest.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 67,
     "recommended": true
   },
@@ -14776,7 +14776,7 @@
     "state_code": "CO",
     "phone": "nan",
     "website": "https://www.ferrariofdenver.com/service/center.htm%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgoogle_my_business%26utm_content%3Dservice",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 21,
     "recommended": true
   },
@@ -15010,7 +15010,7 @@
     "state_code": "CO",
     "phone": "303-547-6468",
     "website": "http://bakerfamilyauto.com/",
-    "rating": 1.0,
+    "rating": 1,
     "reviews": 1,
     "recommended": false
   },
@@ -15114,7 +15114,7 @@
     "state_code": "CO",
     "phone": "720-601-6310",
     "website": "http://303autocare.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 26,
     "recommended": true
   },
@@ -15127,7 +15127,7 @@
     "state_code": "CO",
     "phone": "nan",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -15140,7 +15140,7 @@
     "state_code": "CO",
     "phone": "303-233-3368",
     "website": "http://www.cccdent.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 32,
     "recommended": true
   },
@@ -15907,7 +15907,7 @@
     "state_code": "CO",
     "phone": "nan",
     "website": "http://a1-mobile-mechanic.b12sites.com/",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 4,
     "recommended": true
   },
@@ -15920,7 +15920,7 @@
     "state_code": "CO",
     "phone": "720-644-6481",
     "website": "https://www.firestonecompleteautocare.com/colorado/lakewood/10380-w-colfax-ave/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dlocalmaps%26cmp%3Doloc_google_localmaps_maps",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 536,
     "recommended": true
   },
@@ -15933,7 +15933,7 @@
     "state_code": "CO",
     "phone": "720-643-1545",
     "website": "https://www.lhmlakewoodford.com/service/index.htm%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgoogle_my_business_service",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 862,
     "recommended": true
   },
@@ -16024,7 +16024,7 @@
     "state_code": "CO",
     "phone": "303-791-1970",
     "website": "http://www.automasterscolorado.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 49,
     "recommended": true
   },
@@ -16037,7 +16037,7 @@
     "state_code": "CO",
     "phone": "720-363-1361",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 63,
     "recommended": true
   },
@@ -16050,7 +16050,7 @@
     "state_code": "CO",
     "phone": "303-794-1677",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -16063,7 +16063,7 @@
     "state_code": "CO",
     "phone": "nan",
     "website": "http://bmautoexpert.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 39,
     "recommended": true
   },
@@ -16076,7 +16076,7 @@
     "state_code": "CO",
     "phone": "720-802-3788",
     "website": "https://rpmmobilemechanic.com/littleton-rpm-mobile-mechanic/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
@@ -16089,7 +16089,7 @@
     "state_code": "CO",
     "phone": "720-742-0832",
     "website": "http://www.carsandlocks.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 89,
     "recommended": true
   },
@@ -16102,7 +16102,7 @@
     "state_code": "CO",
     "phone": "720-319-5601",
     "website": "https://gamma.app/public/VILLALOBOS-AUTO-REPAIR-1on1bw85t7ld9le%3Fmode%3Ddoc",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 29,
     "recommended": true
   },
@@ -16115,7 +16115,7 @@
     "state_code": "CO",
     "phone": "303-954-8692",
     "website": "https://www.europlusco.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 95,
     "recommended": true
   },
@@ -16128,7 +16128,7 @@
     "state_code": "CO",
     "phone": "720-602-5251",
     "website": "https://www.onsiteauto303.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 8,
     "recommended": true
   },
@@ -16141,7 +16141,7 @@
     "state_code": "CO",
     "phone": "720-300-8592",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 23,
     "recommended": true
   },
@@ -16154,7 +16154,7 @@
     "state_code": "CO",
     "phone": "303-933-9132",
     "website": "http://470southautomotive.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
@@ -16167,7 +16167,7 @@
     "state_code": "CO",
     "phone": "720-344-8309",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
@@ -17064,7 +17064,7 @@
     "state_code": "CO",
     "phone": "720-600-6085",
     "website": "http://www.dynamicimportservice.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 378,
     "recommended": true
   },
@@ -17077,7 +17077,7 @@
     "state_code": "CO",
     "phone": "720-680-2742",
     "website": "https://www.seasonscollectives.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 33,
     "recommended": true
   },
@@ -17090,7 +17090,7 @@
     "state_code": "CO",
     "phone": "720-614-3940",
     "website": "http://mckaysgarage.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 36,
     "recommended": true
   },
@@ -17623,7 +17623,7 @@
     "state_code": "CO",
     "phone": "720-442-0562",
     "website": "https://www.firestonecompleteautocare.com/colorado/longmont/940-s-hover-st/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dlocalmaps%26cmp%3Doloc_google_localmaps_maps",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 476,
     "recommended": true
   },
@@ -17701,7 +17701,7 @@
     "state_code": "CO",
     "phone": "720-739-7867",
     "website": "https://www.firestonecompleteautocare.com/colorado/broomfield/1800-coalton-rd/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dlocalmaps%26cmp%3Doloc_google_localmaps_maps",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 409,
     "recommended": true
   },
@@ -17714,7 +17714,7 @@
     "state_code": "CO",
     "phone": "970-235-2254",
     "website": "https://nocoautomotive.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 160,
     "recommended": true
   },
@@ -17727,7 +17727,7 @@
     "state_code": "CO",
     "phone": "970-667-5400",
     "website": "http://www.uptownautorepair.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 131,
     "recommended": true
   },
@@ -17740,7 +17740,7 @@
     "state_code": "CO",
     "phone": "nan",
     "website": "https://www.nocoautorepair.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 153,
     "recommended": true
   },
@@ -17753,7 +17753,7 @@
     "state_code": "CO",
     "phone": "970-667-1650",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 42,
     "recommended": true
   },
@@ -17766,7 +17766,7 @@
     "state_code": "CO",
     "phone": "970-663-5392",
     "website": "https://unitedtireandservices.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 11,
     "recommended": true
   },
@@ -17779,7 +17779,7 @@
     "state_code": "CO",
     "phone": "970-818-8779",
     "website": "http://www.sesperformance970.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 14,
     "recommended": true
   },
@@ -17792,7 +17792,7 @@
     "state_code": "CO",
     "phone": "970-667-3682",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 74,
     "recommended": true
   },
@@ -17805,7 +17805,7 @@
     "state_code": "CO",
     "phone": "970-214-4203",
     "website": "http://www.subadude.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 46,
     "recommended": true
   },
@@ -17818,7 +17818,7 @@
     "state_code": "CO",
     "phone": "303-800-1291",
     "website": "https://adassolutionsusa.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 5,
     "recommended": true
   },
@@ -17831,7 +17831,7 @@
     "state_code": "CO",
     "phone": "970-203-0104",
     "website": "http://www.rowleyscollision.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 47,
     "recommended": true
   },
@@ -17844,7 +17844,7 @@
     "state_code": "CO",
     "phone": "970-217-0686",
     "website": "https://dentanddingsurgeon.com/%3Futm_source%3DGMB%26utm_medium%3DWebsite%26utm_campaign%3Dmapstakeover",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 144,
     "recommended": true
   },
@@ -17857,7 +17857,7 @@
     "state_code": "CO",
     "phone": "720-370-9691",
     "website": "http://www.paintedoemparts.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D13135532497034841335",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 152,
     "recommended": true
   },
@@ -18793,7 +18793,7 @@
     "state_code": "CO",
     "phone": "970-663-5901",
     "website": "http://actionautomotiveloveland.com/",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 144,
     "recommended": true
   },
@@ -18910,7 +18910,7 @@
     "state_code": "CO",
     "phone": "970-535-4333",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 34,
     "recommended": true
   },
@@ -18923,7 +18923,7 @@
     "state_code": "CO",
     "phone": "970-712-3521",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 16,
     "recommended": true
   },
@@ -18936,7 +18936,7 @@
     "state_code": "CO",
     "phone": "970-615-7299",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 13,
     "recommended": true
   },
@@ -18949,7 +18949,7 @@
     "state_code": "CO",
     "phone": "970-258-0609",
     "website": "https://alpineautotech.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 3,
     "recommended": true
   },
@@ -18962,7 +18962,7 @@
     "state_code": "CO",
     "phone": "nan",
     "website": "http://ujointoffroad.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 16,
     "recommended": true
   },
@@ -18975,7 +18975,7 @@
     "state_code": "CO",
     "phone": "970-249-7438",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "recommended": true
   },
@@ -19430,7 +19430,7 @@
     "state_code": "CO",
     "phone": "970-901-2782",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 20,
     "recommended": true
   },
@@ -19449,7 +19449,7 @@
   },
   {
     "name": "National Coatings & Supplies",
-    "care_type": "Paint store",
+    "care_type": "Auto repair shop",
     "address": "400 N Townsend Ave, Montrose, CO 81401",
     "city": "Montrose",
     "state": "Colorado",
@@ -19573,7 +19573,7 @@
     "state_code": "CO",
     "phone": "720-575-6904",
     "website": "https://www.alignedautomotivecenters.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 18,
     "recommended": true
   },
@@ -19586,7 +19586,7 @@
     "state_code": "CO",
     "phone": "303-596-4712",
     "website": "http://tannerautomotiveco.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 131,
     "recommended": true
   },
@@ -19599,7 +19599,7 @@
     "state_code": "CO",
     "phone": "720-437-9637",
     "website": "https://motiveworksauto.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 54,
     "recommended": true
   },
@@ -19612,7 +19612,7 @@
     "state_code": "CO",
     "phone": "303-286-1719",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -19625,7 +19625,7 @@
     "state_code": "CO",
     "phone": "303-280-1972",
     "website": "http://maranellomotorworks.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 19,
     "recommended": true
   },
@@ -19638,7 +19638,7 @@
     "state_code": "CO",
     "phone": "720-948-6134",
     "website": "https://www.facebook.com/share/17UyxpkC99/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -19651,7 +19651,7 @@
     "state_code": "CO",
     "phone": "720-300-8975",
     "website": "https://bimmergoats.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 4,
     "recommended": true
   },
@@ -19963,7 +19963,7 @@
     "state_code": "CO",
     "phone": "303-951-3827",
     "website": "http://www.aamcocolorado.com/locations/northglenn%3Futm_source%3DG%26utm_medium%3Dlocal%26utm_campaign%3Dgoogle-local",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 251,
     "recommended": true
   },
@@ -20002,7 +20002,7 @@
     "state_code": "CO",
     "phone": "720-398-9146",
     "website": "https://absoluteautomotive.co/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 159,
     "recommended": true
   },
@@ -20015,7 +20015,7 @@
     "state_code": "CO",
     "phone": "720-655-0223",
     "website": "http://autoprosdr.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 31,
     "recommended": true
   },
@@ -20028,7 +20028,7 @@
     "state_code": "CO",
     "phone": "303-732-8171",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -20041,7 +20041,7 @@
     "state_code": "CO",
     "phone": "303-843-8729",
     "website": "https://edelweisseuro.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 139,
     "recommended": true
   },
@@ -20509,7 +20509,7 @@
     "state_code": "CO",
     "phone": "719-423-0726",
     "website": "https://www.napaonline.com/en/autocare/%3FfacilityId%3D1369758%26srsltid%3DAfmBOopaToRotvNMKRv-IUqimZFTmecsADJDa411MAbNBa8xthZEC1F8%26fbclid%3DIwVERDUAN9hJ5leHRuA2FlbQIxMABzcnRjBmFwcF9pZAo2NjI4NTY4Mzc5AAEedOzXihTwwOrdPGy5ub_INkkGVOcDElxKLBYv-lZeJAlZWNBAck1FzWk_2d8_aem_CmI-5PwQ5gaFXCAak1oHsw",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 31,
     "recommended": true
   },
@@ -20522,7 +20522,7 @@
     "state_code": "CO",
     "phone": "575-303-3497",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 15,
     "recommended": true
   },
@@ -20535,7 +20535,7 @@
     "state_code": "CO",
     "phone": "719-250-5160",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 17,
     "recommended": true
   },
@@ -20548,7 +20548,7 @@
     "state_code": "CO",
     "phone": "719-569-7105",
     "website": "http://www.socofleet.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 50,
     "recommended": true
   },
@@ -21198,7 +21198,7 @@
     "state_code": "CO",
     "phone": "719-406-5665",
     "website": "https://www.facebook.com/Gran-vision-auto-service-270493680018796/",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 28,
     "recommended": true
   },
@@ -21328,7 +21328,7 @@
     "state_code": "CO",
     "phone": "970-879-7939",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 3,
     "recommended": true
   },
@@ -21341,7 +21341,7 @@
     "state_code": "CO",
     "phone": "970-734-6223",
     "website": "http://www.steamboattireworks.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 51,
     "recommended": true
   },
@@ -21653,7 +21653,7 @@
     "state_code": "CO",
     "phone": "970-593-2986",
     "website": "https://www.sterlingrodandcustom.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 3,
     "recommended": true
   },
@@ -21666,7 +21666,7 @@
     "state_code": "CO",
     "phone": "970-522-9477",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 6,
     "recommended": true
   },
@@ -21809,7 +21809,7 @@
     "state_code": "CO",
     "phone": "970-522-3012",
     "website": "https://www.walmart.com/store/924-sterling-co/auto-care-center/%3Fveh%3Dseo_loc",
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 92,
     "recommended": true
   },
@@ -21848,7 +21848,7 @@
     "state_code": "CO",
     "phone": "720-819-8659",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 90,
     "recommended": true
   },
@@ -21861,7 +21861,7 @@
     "state_code": "CO",
     "phone": "740-502-5612",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 9,
     "recommended": true
   },
@@ -21874,7 +21874,7 @@
     "state_code": "CO",
     "phone": "720-823-5757",
     "website": "https://subiesmith.com/thornton/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 161,
     "recommended": true
   },
@@ -22147,7 +22147,7 @@
     "state_code": "CO",
     "phone": "720-371-5356",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 27,
     "recommended": true
   },
@@ -22160,7 +22160,7 @@
     "state_code": "CO",
     "phone": "720-849-5980",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -22173,7 +22173,7 @@
     "state_code": "CO",
     "phone": "983-210-0315",
     "website": "https://www.brakesplus.com/stores/westminister/co/0158%3Futm_source%3Dyext%26utm_medium%3Dorganic%26utm_campaign%3Dgmb%26stnum%3D0158",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 70,
     "recommended": true
   },
@@ -22186,7 +22186,7 @@
     "state_code": "CO",
     "phone": "303-748-7490",
     "website": null,
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 9,
     "recommended": true
   },
@@ -22537,7 +22537,7 @@
     "state_code": "CO",
     "phone": "720-815-9785",
     "website": null,
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 8,
     "recommended": true
   },
@@ -22602,7 +22602,7 @@
     "state_code": "CO",
     "phone": "nan",
     "website": null,
-    "rating": 2.0,
+    "rating": 2,
     "reviews": 4,
     "recommended": false
   },
@@ -22654,7 +22654,7 @@
     "state_code": "CO",
     "phone": "303-800-1291",
     "website": "https://adassolutionsusa.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 5,
     "recommended": true
   },
@@ -22667,7 +22667,7 @@
     "state_code": "CO",
     "phone": "720-523-3368",
     "website": "https://www.ecoautobody.com/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dlocal_seo%26utm_content%3Dgbp",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 84,
     "recommended": true
   },
@@ -22680,7 +22680,7 @@
     "state_code": "CO",
     "phone": "720-519-0033",
     "website": "https://www.profileas.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 24,
     "recommended": true
   },
@@ -22693,7 +22693,7 @@
     "state_code": "CO",
     "phone": "303-421-3033",
     "website": "http://www.denversquality.com/",
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1,
     "recommended": true
   },
@@ -23122,7 +23122,7 @@
     "state_code": "CO",
     "phone": "303-424-7000",
     "website": null,
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 2,
     "recommended": true
   },
