@@ -68,6 +68,42 @@ function normalizePhoneDisplay(phone: string): string {
   return withoutPlus1 || "Phone not listed";
 }
 
+/**
+ * Google reviews URLs require a place_id. When it is missing (e.g. Canadian listings),
+ * use the same address-based Maps search URL as the footer link.
+ */
+function resolveGoogleMapsHref(
+  mapsUrl: string | undefined,
+  addressLines: string[],
+): string | undefined {
+  const addressQuery = addressLines
+    .map((s) => s.trim())
+    .filter(Boolean)
+    .join(", ");
+  const addressSearchUrl = addressQuery
+    ? `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(addressQuery)}`
+    : undefined;
+
+  if (!mapsUrl?.trim()) {
+    return addressSearchUrl;
+  }
+
+  const trimmed = mapsUrl.trim();
+  try {
+    const u = new URL(trimmed);
+    const isLocalReviews =
+      u.hostname === "search.google.com" && u.pathname.includes("/local/reviews");
+    if (isLocalReviews) {
+      const pid = (u.searchParams.get("placeid") || "").trim();
+      if (pid) return trimmed;
+      return addressSearchUrl;
+    }
+    return trimmed;
+  } catch {
+    return trimmed || addressSearchUrl;
+  }
+}
+
 const renderRating = (
   rating?: number,
   reviewCount?: number,
@@ -143,6 +179,8 @@ export function FacilityCard({ facility }: FacilityCardProps) {
       : "";
   const hasLogo = isPremium && logo && logo.trim().length > 0;
 
+  const mapsHref = resolveGoogleMapsHref(mapsUrl, addressLines);
+
   const aggregateRatingLd =
     typeof rating === "number" &&
     Number.isFinite(rating) &&
@@ -209,7 +247,7 @@ export function FacilityCard({ facility }: FacilityCardProps) {
         <h3 className="text-xl font-semibold leading-snug text-navy">
           {name}
         </h3>
-        {renderRating(rating, reviewCount, mapsUrl)}
+        {renderRating(rating, reviewCount, mapsHref)}
       </div>
       {(isRecommended || showReviewCarefully) && (
         <p className="text-xs font-medium">
@@ -265,9 +303,9 @@ export function FacilityCard({ facility }: FacilityCardProps) {
             Visit website
           </a>
         )}
-        {mapsUrl && (
+        {mapsHref && (
           <a
-            href={mapsUrl}
+            href={mapsHref}
             target="_blank"
             rel="noopener noreferrer"
             className="font-medium text-teal underline underline-offset-2 hover:text-teal-soft"
