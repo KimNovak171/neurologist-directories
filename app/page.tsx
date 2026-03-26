@@ -4,32 +4,35 @@ import { FacilityCard } from "@/components/FacilityCard";
 import { getCanadaDirectoryIndex } from "@/lib/canadaFacilities";
 import { getDirectoryIndex, getStateSummary, getGlobalStats } from "@/lib/stateFacilities";
 
-export const metadata: Metadata = {
-  title:
-    "Dental Directory USA | Verified dentists",
-  description:
-    "Browse verified dentists and dental practices across the United States — all rated 3 stars or higher on Google Maps.",
-  alternates: {
-    canonical: "/",
-  },
-  openGraph: {
-    title:
-      "Dental Directory USA | Verified dentists",
-    description:
-      "Browse verified dentists and dental practices across the United States — all rated 3 stars or higher on Google Maps.",
-    url: "/",
-    siteName: "DentistryDirectories.com",
-    type: "website",
-    images: [
-      {
-        url: "/og-image.svg",
-        width: 1200,
-        height: 630,
-        alt: "DentistryDirectories.com homepage preview",
-      },
-    ],
-  },
-};
+export async function generateMetadata(): Promise<Metadata> {
+  const stats = getGlobalStats();
+  const total = stats.totalFacilities.toLocaleString();
+  const title = `Dental Directory USA & Canada | ${total} verified dentists`;
+  const description = `Browse ${total} verified dentists and dental practices across the United States and Canada — all rated 3 stars or higher on Google Maps.`;
+
+  return {
+    title,
+    description,
+    alternates: {
+      canonical: "/",
+    },
+    openGraph: {
+      title,
+      description,
+      url: "/",
+      siteName: "DentistryDirectories.com",
+      type: "website",
+      images: [
+        {
+          url: "/og-image.svg",
+          width: 1200,
+          height: 630,
+          alt: "DentistryDirectories.com homepage preview",
+        },
+      ],
+    },
+  };
+}
 
 export default async function Home() {
   const [usDirectory, canadaDirectory] = await Promise.all([
@@ -70,11 +73,12 @@ export default async function Home() {
               Dentistry Directories
             </p>
             <h1 className="text-balance text-3xl font-semibold leading-tight sm:text-4xl lg:text-5xl">
-              Find Trusted Dentists — State by State
+              Find Trusted Dentists — US States &amp; Canadian Provinces
             </h1>
             <p className="max-w-2xl text-balance text-sm sm:text-base text-foreground/80">
-              Verified dentists and dental services across the United States.
-              Every practice rated 3★ or higher on Google Maps.
+              Verified dentists across the United States and Canada—browse by
+              state or province, then by city. Every practice rated 3★ or higher
+              on Google Maps.
             </p>
           </div>
 

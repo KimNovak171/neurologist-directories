@@ -5,32 +5,36 @@ import {
   getCanadaNationwideStats,
 } from "@/lib/canadaFacilities";
 
-const siteUrl = "https://dentistrydirectories.com";
+export async function generateMetadata(): Promise<Metadata> {
+  const stats = getCanadaNationwideStats();
+  const total = stats.totalFacilities.toLocaleString();
+  const provinces = stats.provinceCount.toLocaleString();
+  const title = `Dental Practices in Canada | ${total} verified listings | Dentistry Directories`;
+  const description = `Browse ${total} verified dental practices across ${provinces} provinces and territories—maps, contact info, and Google ratings. Every listing rated 3 stars or higher on Google Maps.`;
 
-export const metadata: Metadata = {
-  title: "Dental Practices in Canada | Provincial Directories | Dentistry Directories",
-  description:
-    "Browse verified dental practices across Canadian provinces and territories — all rated 3 stars or higher on Google Maps.",
-  alternates: {
-    canonical: "/canada",
-  },
-  openGraph: {
-    title: "Dental Practices in Canada | Provincial Directories | Dentistry Directories",
-    description:
-      "Browse verified dental practices across Canadian provinces and territories.",
-    url: "/canada",
-    siteName: "DentistryDirectories.com",
-    type: "website",
-    images: [
-      {
-        url: "/og-image.svg",
-        width: 1200,
-        height: 630,
-        alt: "Canada dental practice directory preview",
-      },
-    ],
-  },
-};
+  return {
+    title,
+    description,
+    alternates: {
+      canonical: "/canada",
+    },
+    openGraph: {
+      title,
+      description,
+      url: "/canada",
+      siteName: "DentistryDirectories.com",
+      type: "website",
+      images: [
+        {
+          url: "/og-image.svg",
+          width: 1200,
+          height: 630,
+          alt: "Canada dental practice directory preview",
+        },
+      ],
+    },
+  };
+}
 
 export default async function CanadaLandingPage() {
   const directory = await getCanadaDirectoryIndex();

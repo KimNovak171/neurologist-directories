@@ -6,8 +6,9 @@ import path from "path";
  * All provinces & territories that may have `data/{slug}_facilities.json`.
  * `discoverCanadaProvinceSlugsFromData()` finds which of these files exist and
  * loads each in one batch (`readFileSync` + try/catch → [] per file).
- * Maps links: when `place_id` is set, use `/maps/place/?q=place_id:{encoded_id}`;
- * otherwise `maps/search/?api=1&query={encoded_address}`.
+ * Maps: with `place_id`, `https://www.google.com/maps/place/?q=place_id:{place_id}`
+ * (full `q` value is URI-encoded). If `place_id` is missing/empty, fall back to
+ * `https://www.google.com/maps/search/?api=1&query={encoded_address}`.
  */
 const ALL_CANADA_PROVINCE_SLUGS = [
   "alberta",
@@ -80,6 +81,7 @@ function loadCanadaProvinceRawArray(slug: string): CanadaFacilityRaw[] {
 type CanadaFacilityRaw = {
   name: string;
   care_type?: string;
+  type?: string;
   address: string;
   city: string;
   /** Some exports use `state` for the province name (e.g. Alberta). */
@@ -167,6 +169,22 @@ function slugify(text: string | null | undefined): string {
     .replace(/^-|-$/g, "");
 }
 
+function buildCanadaMapsUrl(
+  placeId: string | null | undefined,
+  fullAddress: string,
+): string | undefined {
+  const pid = (placeId ?? "").trim();
+  if (pid) {
+    const q = `place_id:${pid}`;
+    return `https://www.google.com/maps/place/?q=${encodeURIComponent(q)}`;
+  }
+  const addr = fullAddress.trim();
+  if (addr) {
+    return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(addr)}`;
+  }
+  return undefined;
+}
+
 function transformCanadaFacilities(
   facilities: CanadaFacilityRaw[],
   provinceName: string,
@@ -182,13 +200,7 @@ function transformCanadaFacilities(
     const addressLine2 =
       addressParts.length > 1 ? addressParts.slice(1).join(", ") : undefined;
     const fullAddress = (f.address ?? "").trim();
-    const pid = f.place_id?.trim();
-    /** Canadian exports: use place_id when present; otherwise address search. */
-    const mapsUrl = pid
-      ? `https://www.google.com/maps/place/?q=place_id:${encodeURIComponent(pid)}`
-      : fullAddress
-        ? `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(fullAddress)}`
-        : undefined;
+    const mapsUrl = buildCanadaMapsUrl(f.place_id, fullAddress);
     return {
       id,
       name: f.name,
@@ -203,7 +215,7 @@ function transformCanadaFacilities(
       mapsUrl: mapsUrl ?? null,
       rating: f.rating ?? null,
       reviewCount: f.reviews ?? null,
-      careTypes: f.care_type ? [f.care_type] : [],
+      careTypes: (f.care_type ?? f.type) ? [f.care_type ?? f.type ?? ""] : [],
       featured: f.featured ?? undefined,
       premium: f.premium ?? undefined,
       recommended: f.recommended ?? undefined,
