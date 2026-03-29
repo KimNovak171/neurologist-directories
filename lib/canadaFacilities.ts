@@ -3,12 +3,14 @@ import fs from "fs";
 import path from "path";
 
 /**
- * All provinces & territories that may have `data/{slug}_facilities.json`.
- * `discoverCanadaProvinceSlugsFromData()` finds which of these files exist and
- * loads each in one batch (`readFileSync` + try/catch → [] per file).
- * Maps: with `place_id`, `https://www.google.com/maps/place/?q=place_id:{place_id}`
- * (full `q` value is URI-encoded). If `place_id` is missing/empty, fall back to
- * `https://www.google.com/maps/search/?api=1&query={encoded_address}`.
+ * All 13 provinces & territories: `data/{slug}_facilities.json`.
+ * `discoverCanadaProvinceSlugsFromData()` loads every file that exists on disk
+ * in one batch (`readFileSync` + try/catch → [] per file).
+ *
+ * CRITICAL — Maps URLs:
+ * - With non-empty `place_id`: `https://www.google.com/maps/place/?q=place_id:{place_id}`
+ *   (`q` is URI-encoded, value is literally `place_id:` + id).
+ * - If `place_id` is missing or empty: `https://www.google.com/maps/search/?api=1&query={encoded_address}`.
  */
 const ALL_CANADA_PROVINCE_SLUGS = [
   "alberta",
@@ -169,14 +171,14 @@ function slugify(text: string | null | undefined): string {
     .replace(/^-|-$/g, "");
 }
 
+/** Place links use `q=place_id:{id}` on /maps/place/; otherwise address search. */
 function buildCanadaMapsUrl(
   placeId: string | null | undefined,
   fullAddress: string,
 ): string | undefined {
   const pid = (placeId ?? "").trim();
   if (pid) {
-    const q = `place_id:${pid}`;
-    return `https://www.google.com/maps/place/?q=${encodeURIComponent(q)}`;
+    return `https://www.google.com/maps/place/?q=${encodeURIComponent(`place_id:${pid}`)}`;
   }
   const addr = fullAddress.trim();
   if (addr) {
