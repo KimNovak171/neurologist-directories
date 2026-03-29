@@ -8,7 +8,7 @@ import {
   getStateSummary,
 } from "@/lib/stateFacilities";
 
-const siteUrl = "https://urgentcaredirectories.com";
+const siteUrl = "https://neurologistdirectories.com";
 
 type StatePageProps = {
   params: Promise<{ stateSlug: string }>;
@@ -25,9 +25,9 @@ export async function generateMetadata({
 
   const { stateName, totalFacilities, cities } = await getStateSummary(safeSlug);
 
-  const title = `Urgent Care Clinics in ${stateName} | ${totalFacilities.toLocaleString()} Verified Practices | UrgentCareDirectories.com`;
+  const title = `Neurologists in ${stateName} | ${totalFacilities.toLocaleString()} Verified Practices | NeurologistDirectories.com`;
 
-  const descriptor = `Browse ${totalFacilities.toLocaleString()} verified urgent care clinics across ${cities.length.toLocaleString()} ${stateName} cities. Find walk-in clinics and urgent care providers — all rated 3 stars or higher on Google Maps.`;
+  const descriptor = `Browse ${totalFacilities.toLocaleString()} verified neurologists and neurology practices across ${cities.length.toLocaleString()} ${stateName} cities — all rated 3 stars or higher on Google Maps.`;
 
   return {
     title,
@@ -42,14 +42,14 @@ export async function generateMetadata({
       title,
       description: descriptor,
       url: canonicalPath,
-      siteName: "UrgentCareDirectories.com",
+      siteName: "NeurologistDirectories.com",
       type: "website",
       images: [
         {
           url: "/og-image.svg",
           width: 1200,
           height: 630,
-          alt: `${stateName} urgent care clinic directory preview`,
+          alt: `${stateName} neurologist directory preview`,
         },
       ],
     },
@@ -73,8 +73,8 @@ export default async function StatePage({ params }: StatePageProps) {
     careTypes,
   } = await getStateSummary(stateSlug ?? "");
   const resourcesUrl = getStateResourcesUrl(resolvedStateSlug);
-  const urgentCareFocusText =
-    "urgent care visits, preventive care guidance, minor injury treatment, and common illness treatment";
+  const neurologyFocusText =
+    "outpatient neurology evaluations, epilepsy and movement disorder care, headache and neuromuscular treatment, and neurosurgical referrals when appropriate";
   const majorCities = [...cities]
     .sort((a, b) => b.facilityCount - a.facilityCount)
     .slice(0, 6)
@@ -86,7 +86,7 @@ export default async function StatePage({ params }: StatePageProps) {
   const careTypesSentence =
     topCareTypes.length > 0
       ? topCareTypes.join(", ")
-      : "urgent care visits, preventive care guidance, minor injury treatment, and common illness treatment";
+      : neurologyFocusText;
 
   const breadcrumbSchema = {
     "@context": "https://schema.org",
@@ -95,7 +95,7 @@ export default async function StatePage({ params }: StatePageProps) {
       {
         "@type": "ListItem",
         position: 1,
-        name: "UrgentCareDirectories.com",
+        name: "NeurologistDirectories.com",
         item: `${siteUrl}/`,
       },
       {
@@ -113,7 +113,7 @@ export default async function StatePage({ params }: StatePageProps) {
     mainEntity: [
       {
         "@type": "Question",
-        name: `How many urgent care clinics are in ${stateName}?`,
+        name: `How many neurologists are listed in ${stateName}?`,
         acceptedAnswer: {
           "@type": "Answer",
           text: `Our directory lists ${totalFacilities.toLocaleString()} verified facilities across ${cities.length.toLocaleString()} cities.`,
@@ -121,7 +121,7 @@ export default async function StatePage({ params }: StatePageProps) {
       },
       {
         "@type": "Question",
-        name: `What types of urgent care services are available in ${stateName}?`,
+        name: `What types of neurology services are available in ${stateName}?`,
         acceptedAnswer: {
           "@type": "Answer",
           text: `${careTypesSentence}.`,
@@ -129,10 +129,10 @@ export default async function StatePage({ params }: StatePageProps) {
       },
       {
         "@type": "Question",
-        name: "How are clinics selected for this directory?",
+        name: "How are practices selected for this directory?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "All clinics are sourced from Google Maps, verified, and must have a minimum 3-star rating.",
+          text: "All practices are sourced from Google Maps, verified, and must have a minimum 3-star rating.",
         },
       },
     ],
@@ -141,33 +141,33 @@ export default async function StatePage({ params }: StatePageProps) {
   const webpageSchema = {
     "@context": "https://schema.org",
     "@type": "WebPage",
-    name: `Urgent Care Clinics in ${stateName}`,
+    name: `Neurologists in ${stateName}`,
     url: `${siteUrl}/${resolvedStateSlug}`,
     isPartOf: {
       "@type": "WebSite",
-      name: "UrgentCareDirectories.com",
+      name: "NeurologistDirectories.com",
       url: `${siteUrl}/`,
     },
     about: [
       {
         "@type": "Thing",
-        name: `${stateName} urgent care clinics`,
+        name: `${stateName} neurologists`,
       },
       {
         "@type": "Thing",
-        name: "General urgent care",
+        name: "Pediatric neurologists",
       },
       {
         "@type": "Thing",
-        name: "Urgent care services",
+        name: "Neurophysiologists",
       },
       {
         "@type": "Thing",
-        name: "Minor injury treatment",
+        name: "Neurosurgeons",
       },
       {
         "@type": "Thing",
-        name: "Preventive care",
+        name: "Neurology practices",
       },
     ],
     speakable: {
@@ -210,11 +210,11 @@ export default async function StatePage({ params }: StatePageProps) {
           State overview
         </p>
         <h1 className="mt-2 text-3xl font-semibold sm:text-4xl">
-          Urgent Care Clinics in {stateName}
+          Neurologists in {stateName}
         </h1>
         <p className="mt-3 max-w-2xl text-sm text-foreground/80">
-          Explore {urgentCareFocusText} across {stateName}, including major city
-          areas such as {majorCitiesText}. Use this page to find urgent care providers by city,
+          Explore {neurologyFocusText} across {stateName}, including major city
+          areas such as {majorCitiesText}. Use this page to find neurologists by city,
           then review{" "}
           <a
             href={resourcesUrl}
@@ -222,9 +222,9 @@ export default async function StatePage({ params }: StatePageProps) {
             rel="noopener noreferrer"
             className="underline underline-offset-2 hover:text-gold-soft"
           >
-            official {stateName} healthcare consumer resources
+            professional neurology resources from the American Academy of Neurology
           </a>{" "}
-          for finding qualified urgent care providers and understanding your options.
+          for understanding credentials and standards of care.
         </p>
 
         <div className="mt-5 grid gap-4 text-sm sm:grid-cols-3">
@@ -284,12 +284,11 @@ export default async function StatePage({ params }: StatePageProps) {
         <div className="flex flex-col gap-2 sm:flex-row sm:items-end sm:justify-between">
           <div>
             <h2 className="text-sm font-semibold uppercase tracking-[0.18em] text-navy border-b-2 border-teal/50 pb-1 inline-block">
-              Urgent Care Clinics by City in {stateName}
+              Neurologists by City in {stateName}
             </h2>
             <p className="mt-1 max-w-2xl text-sm text-slate-600">
-              Choose a city to browse urgent care providers and urgent care clinics in{" "}
-              {stateName}, including routine visits, preventive care, and
-              minor injury treatment.
+              Choose a city to browse neurologists and neurology practices in{" "}
+              {stateName}, including outpatient neurology, pediatric neurology, neurophysiology, and neurosurgery.
             </p>
           </div>
           <div className="text-xs text-slate-500">

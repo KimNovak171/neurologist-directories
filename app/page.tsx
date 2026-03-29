@@ -1,14 +1,22 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { FacilityCard } from "@/components/FacilityCard";
-import { getCanadaDirectoryIndex } from "@/lib/canadaFacilities";
+import {
+  getCanadaDirectoryIndex,
+  getCanadaStatsForGlobal,
+} from "@/lib/canadaFacilities";
 import { getDirectoryIndex, getStateSummary, getGlobalStats } from "@/lib/stateFacilities";
 
 export async function generateMetadata(): Promise<Metadata> {
   const stats = getGlobalStats();
   const total = stats.totalFacilities.toLocaleString();
-  const title = `Urgent Care Directory USA & Canada | ${total} verified urgent care providers`;
-  const description = `Browse ${total} verified urgent care providers and urgent care clinics across the United States and Canada — all rated 3 stars or higher on Google Maps.`;
+  const hasCanada = getCanadaStatsForGlobal().totalFacilities > 0;
+  const title = hasCanada
+    ? `Neurologist Directory USA & Canada | ${total} verified neurologists`
+    : `Neurologist Directory USA | ${total} verified neurologists`;
+  const description = hasCanada
+    ? `Browse ${total} verified neurologists and neurology practices across the United States and Canada — all rated 3 stars or higher on Google Maps.`
+    : `Browse ${total} verified neurologists and neurology practices across the United States — all rated 3 stars or higher on Google Maps.`;
 
   return {
     title,
@@ -20,14 +28,14 @@ export async function generateMetadata(): Promise<Metadata> {
       title,
       description,
       url: "/",
-      siteName: "UrgentCareDirectories.com",
+      siteName: "NeurologistDirectories.com",
       type: "website",
       images: [
         {
           url: "/og-image.svg",
           width: 1200,
           height: 630,
-          alt: "UrgentCareDirectories.com homepage preview",
+          alt: "NeurologistDirectories.com homepage preview",
         },
       ],
     },
@@ -46,6 +54,7 @@ export default async function Home() {
     usDirectory.map((s) => getStateSummary(s.stateSlug)),
   );
   const globalStats = getGlobalStats();
+  const showCanadaSection = canadaDirectory.length > 0;
 
   const breadcrumbSchema = {
     "@context": "https://schema.org",
@@ -54,14 +63,14 @@ export default async function Home() {
       {
         "@type": "ListItem",
         position: 1,
-        name: "UrgentCareDirectories.com",
-        item: "https://urgentcaredirectories.com/",
+        name: "NeurologistDirectories.com",
+        item: "https://neurologistdirectories.com/",
       },
     ],
   };
 
   return (
-    <div className="bg-surface text-foreground">
+    <div className="bg-surface-muted text-foreground">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
@@ -70,15 +79,17 @@ export default async function Home() {
         <div className="mx-auto flex max-w-6xl flex-col gap-10 px-4 py-12 sm:px-6 lg:py-16 lg:px-8">
           <div className="space-y-6 text-foreground">
             <p className="inline-flex rounded-full border border-teal bg-surface px-3 py-1 text-xs font-medium uppercase tracking-[0.2em] text-foreground">
-              Urgent Care Directories
+              Neurologist Directories
             </p>
             <h1 className="text-balance text-3xl font-semibold leading-tight sm:text-4xl lg:text-5xl">
-              Find Trusted Urgent Care Providers — US States &amp; Canadian Provinces
+              {showCanadaSection
+                ? "Find Trusted Neurologists — US States & Canadian Provinces"
+                : "Find Trusted Neurologists — All US States"}
             </h1>
             <p className="max-w-2xl text-balance text-sm sm:text-base text-foreground/80">
-              Verified urgent care providers across the United States and Canada—browse by
-              state or province, then by city. Every practice rated 3★ or higher
-              on Google Maps.
+              {showCanadaSection
+                ? "Verified neurologists and neurology practices across the United States and Canada—browse by state or province, then by city. Every practice rated 3★ or higher on Google Maps."
+                : "Verified neurologists and neurology practices across the United States—browse by state, then by city. Every practice rated 3★ or higher on Google Maps."}
             </p>
           </div>
 
@@ -87,7 +98,7 @@ export default async function Home() {
               Start with a state directory
             </h2>
             <p className="mt-2 text-sm text-foreground/90">
-              Browse verified urgent care providers by state, then drill down by
+              Browse verified neurologists by state, then drill down by
               city to compare services and contact details.
             </p>
 
@@ -117,13 +128,13 @@ export default async function Home() {
         </div>
       </section>
 
-      {canadaDirectory.length > 0 && (
+      {showCanadaSection && (
         <section className="mx-auto max-w-6xl px-4 pt-8 sm:px-6 lg:px-8">
           <h2 className="text-2xl font-semibold text-navy">
-            Canadian Urgent Care Directories
+            Canadian Neurologist Directories
           </h2>
           <p className="mt-2 text-sm text-slate-600">
-            Browse verified urgent care providers by Canadian province. Same
+            Browse verified neurologists by Canadian province. Same
             directory experience — province by province, then by city.
           </p>
           <div className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
@@ -152,11 +163,11 @@ export default async function Home() {
         return (
           <section className="mx-auto max-w-6xl rounded-2xl border-2 border-teal/20 bg-surface px-4 py-10 sm:px-6 lg:px-8">
             <h2 className="text-xl font-semibold text-foreground">
-              Featured urgent care clinics
+              Featured neurology practices
             </h2>
             <p className="mt-1 text-sm text-slate-600">
               Selected practices across our directories — verified listings for
-              families comparing urgent care services options.
+              families comparing neurology care options.
             </p>
             <div className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
               {allFeatured.map((facility) => (
@@ -168,7 +179,7 @@ export default async function Home() {
       })()}
 
       <p className="mx-auto max-w-2xl rounded-lg border-2 border-teal/40 bg-surface px-4 py-3 text-center text-sm text-slate-700">
-        Urgent care clinic owners: Get featured at the top of your city listing.{" "}
+        Neurology practice owners: Get featured at the top of your city listing.{" "}
         <Link
           href="/advertise"
           className="font-medium text-teal underline underline-offset-2 hover:text-teal-soft"
@@ -189,7 +200,7 @@ export default async function Home() {
         <div className="mx-auto grid max-w-6xl gap-4 px-4 py-8 sm:grid-cols-2 sm:px-6 lg:grid-cols-4 lg:px-8">
           <div className="rounded-xl border-2 border-teal/30 bg-surface p-4 text-center shadow-sm">
             <p className="text-xs font-semibold uppercase tracking-wide text-teal">
-              Verified urgent care providers
+              Verified neurologists
             </p>
             <p className="mt-2 text-2xl font-semibold text-foreground">
               {globalStats.totalFacilities.toLocaleString()}
@@ -248,7 +259,7 @@ export default async function Home() {
                 Browse by city
               </h3>
               <p className="mt-2 text-sm text-slate-600">
-                Compare local options by city with ratings, urgent care services,
+                Compare local options by city with ratings, neurology services,
                 and contact details.
               </p>
             </div>
@@ -257,7 +268,7 @@ export default async function Home() {
                 3️⃣
               </p>
               <h3 className="mt-3 text-lg font-semibold text-foreground">
-                Contact urgent care providers directly
+                Contact neurologists directly
               </h3>
               <p className="mt-2 text-sm text-slate-600">
                 Use website and maps links to verify details and contact
@@ -308,11 +319,11 @@ export default async function Home() {
         <div className="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8">
           <div className="rounded-2xl border border-gold/50 bg-surface p-6 text-foreground ring-1 ring-gold/30">
             <h2 className="text-2xl font-semibold text-foreground">
-              Are You a Urgent Care Clinic Owner?
+              Are You a Neurology Practice Owner?
             </h2>
             <p className="mt-3 max-w-3xl text-sm text-foreground/90">
-              Get your practice seen by patients actively searching for urgent care
-              care options in your city. Featured listings available.
+              Get your practice seen by patients actively searching for neurology
+              care in your city. Featured listings available.
             </p>
             <div className="mt-5">
               <Link

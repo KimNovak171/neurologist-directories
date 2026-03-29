@@ -16,29 +16,29 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://urgentcaredirectories.com"),
+  metadataBase: new URL("https://neurologistdirectories.com"),
   title: {
-    default: "UrgentCareDirectories.com | Urgent Care Directory",
-    template: "%s | UrgentCareDirectories.com",
+    default: "NeurologistDirectories.com | Neurologist Directory",
+    template: "%s | NeurologistDirectories.com",
   },
   description:
-    "UrgentCareDirectories.com is a professional, easy-to-use urgent care directory helping patients and families find local urgent care providers and urgent care services across the United States and Canada.",
+    "NeurologistDirectories.com is a professional, easy-to-use neurologist directory helping patients and families find local neurologists and neurology practices across the United States and Canada.",
   alternates: {
     canonical: "/",
   },
   openGraph: {
-    title: "UrgentCareDirectories.com | Urgent Care Directory",
+    title: "NeurologistDirectories.com | Neurologist Directory",
     description:
-      "Trusted resource to explore and compare urgent care providers and urgent care services across North America.",
+      "Trusted resource to explore and compare neurologists and neurology practices across North America.",
     url: "/",
-    siteName: "UrgentCareDirectories.com",
+    siteName: "NeurologistDirectories.com",
     type: "website",
     images: [
       {
         url: "/og-image.svg",
         width: 1200,
         height: 630,
-        alt: "UrgentCareDirectories.com logo preview",
+        alt: "NeurologistDirectories.com logo preview",
       },
     ],
   },
@@ -69,9 +69,9 @@ export default async function RootLayout({
                 <Link
                   href="/"
                   className="text-[11px] font-bold tracking-[0.28em] sm:text-xs text-white hover:text-teal-soft transition-colors"
-                  aria-label="UrgentCareDirectories.com – go to homepage"
+                  aria-label="NeurologistDirectories.com – go to homepage"
                 >
-                  UrgentCareDirectories.com
+                  NeurologistDirectories.com
                 </Link>
                 <nav className="flex items-center gap-4" aria-label="Main navigation">
                   <Link
@@ -101,7 +101,7 @@ export default async function RootLayout({
                 </nav>
               </div>
               <p className="ml-4 hidden max-w-xs text-right text-xs text-white/90 sm:block">
-                Trusted urgent care directory for patients and families.
+                Trusted neurologist directory for patients and families.
               </p>
             </div>
           </header>
@@ -181,7 +181,7 @@ export default async function RootLayout({
           <footer className="w-full border-t border-teal/10 bg-surface">
             <div className="mx-auto flex max-w-6xl flex-col gap-4 px-4 py-5 text-xs text-foreground/80 sm:px-6 lg:px-8">
               <p>
-                © {new Date().getFullYear()} UrgentCareDirectories.com. For
+                © {new Date().getFullYear()} NeurologistDirectories.com. For
                 informational purposes only – always verify licensing,
                 certifications, and safety requirements with your local authority.
               </p>
@@ -199,7 +199,7 @@ export default async function RootLayout({
                   Advertise
                 </Link>
                 <Link href="/advertise" className="hover:text-teal-soft">
-                  For urgent care providers
+                  For neurology practices
                 </Link>
                 <Link href="/advertise" className="hover:text-teal-soft">
                   Featured Listing
