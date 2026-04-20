@@ -1,15 +1,16 @@
 import type { Metadata } from "next";
+import { getCanadaDirectoryIndex } from "@/lib/canadaFacilities";
+import { getDirectoryIndex } from "@/lib/stateFacilities";
 
 type RegionPageProps = {
-  params: {
-    region: string;
-  };
+  params: Promise<{ region: string }>;
 };
 
-export function generateMetadata({
+export async function generateMetadata({
   params,
-}: RegionPageProps): Metadata {
-  const regionCode = params.region.toUpperCase();
+}: RegionPageProps): Promise<Metadata> {
+  const { region } = await params;
+  const regionCode = region.toUpperCase();
 
   return {
     title: `Neurologists in ${regionCode}`,
@@ -17,14 +18,33 @@ export function generateMetadata({
     openGraph: {
       title: `Neurologists in ${regionCode} | NeurologistDirectories.com`,
       description: `Browse neurologists and neurology practices in ${regionCode}.`,
-      url: `/locations/${params.region}`,
+      url: `/locations/${region}`,
       type: "website",
     },
   };
 }
 
-export default function RegionPage({ params }: RegionPageProps) {
-  const regionCode = params.region.toUpperCase();
+export async function generateStaticParams() {
+  const [directory, canadaDirectory] = await Promise.all([
+    getDirectoryIndex(),
+    getCanadaDirectoryIndex(),
+  ]);
+
+  return [
+    ...directory
+      .map((state) => state.stateSlug)
+      .filter((slug): slug is string => Boolean(slug))
+      .map((region) => ({ region })),
+    ...canadaDirectory
+      .map((province) => province.provinceSlug)
+      .filter((slug): slug is string => Boolean(slug))
+      .map((region) => ({ region })),
+  ];
+}
+
+export default async function RegionPage({ params }: RegionPageProps) {
+  const { region } = await params;
+  const regionCode = region.toUpperCase();
 
   return (
     <main className="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8">
@@ -53,4 +73,3 @@ export default function RegionPage({ params }: RegionPageProps) {
     </main>
   );
 }
-
