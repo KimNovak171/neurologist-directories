@@ -16,6 +16,9 @@ function walkAndDeleteTxt(dir) {
     } else if (entry.isFile()) {
       const ext = path.extname(entry.name);
       if (ext.toLowerCase() === ".txt") {
+        if (entry.name.toLowerCase() === "robots.txt") {
+          continue;
+        }
         fs.unlinkSync(fullPath);
       }
     }
